@@ -16,3 +16,7 @@ This is something that I can use to create and present by just using markdown. H
 ## Presentations using Markdown?
 
 How cool is this? I'm loving it. Nice!
+
+## Deploy to GitHub Pages
+
+If this goes well, then I'll have this in GHPages ready.
