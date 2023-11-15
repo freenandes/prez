@@ -1,0 +1,59 @@
+/* @theme pmcf */
+
+/* Imports */
+
+@import 'default';
+
+/* Fonts */
+
+@font-face {
+	font-family: "LexendDeca";
+	src:
+		url("./fonts/LexendDeca.woff2") format("woff2 supports variations"),
+		url("./fonts/LexendDeca.woff2") format("woff2-variations");
+	font-weight: 100 1000;
+	font-display: swap;
+    font-variant-ligatures: common-ligatures;
+}
+@font-face {
+	font-family: "LexendZetta";
+	src:
+		url("./fonts/LexendPeta.woff2") format("woff2 supports variations"),
+		url("./fonts/LexendPeta.woff2") format("woff2-variations");
+	font-weight: 100 1000;
+	font-display: swap;
+    font-variant-ligatures: common-ligatures;
+}
+@font-face {
+	font-family: "Park";
+	src:
+		url("/fonts/NationalPark.woff2") format("woff2 supports variations"),
+		url("/fonts/NationalPark.woff2") format("woff2-variations");
+	font-weight: 275 800;
+	font-display: swap;
+    font-variant-ligatures: common-ligatures;
+}
+@font-face {
+	font-family: "Coconat";
+	src: url("/fonts/CoconatBoldExt.woff2") format("woff2");
+    font-weight: bold;
+	font-display: swap;
+}
+@font-face {
+	font-family: "Coconat";
+	src: url("/fonts/CoconatRegular.woff2") format("woff2");
+    font-weight: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: "Compagnon";
+	src: url("/fonts/CompagnonScript.woff2") format("woff2");
+	font-display: swap;
+}
+
+/* Types */
+
+h1 {
+    font-family: "Coconat";
+    text-transform: uppercase;
+}
