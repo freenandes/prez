@@ -15,4 +15,4 @@ This is something that I can use to create and present by just using markdown. H
 
 ## Presentations using Markdown?
 
-How cool is this? I'm loving it.
+How cool is this? I'm loving it. Nice!
