@@ -3,9 +3,11 @@ marp: true
 lang: en
 theme: pmcf
 headingDivider: 3
+author: Pedro MC Fernandes
+size: 4:3
 ---
 
-# Caravela
+# <!--fit--> Caravela
 
 ![bg](../img/ocean.jpg)
 
