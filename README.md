@@ -2,22 +2,10 @@
 marp: true
 lang: en
 theme: pmcf
-headingDivider: 2
-paginate: true
-header: "Sandbox"
-footer: "Pedro MC Fernandes"
 ---
 
-# Sandbox presentation
+# Presentations by Pedro MC Fernandes
 
-This is something that I can use to create and present by just using markdown. How awesome is that?
+Hi! Welcome, friend! This is my personal bunker of presentations. Feel free to browse around, even though presentations do need a presenter to make complete sense out of the laid-out topic, right?
 
-## Presentations using Markdown?
-
-How cool is this? I'm loving it. Nice!
-
-## Deploy to GitHub Pages
-
-If this goes well, then I'll have this in GHPages ready.
-
-Here's [another presentation](docs/presentation1.md).
+If you want to know me better, maybe browse my [personal website](https://www.pmcf.xyz) or my digital garden [Topo da Mente](https://www.pmcf.xyz/topo-da-mente). Cheers!
