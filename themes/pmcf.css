@@ -53,8 +53,7 @@
 
 /* Typography */
 
-h1 {
+.cover h1 {
     font-family: "Coconat" !important;
-	
     text-transform: uppercase;
 }
