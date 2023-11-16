@@ -20,3 +20,4 @@ This is another slide
 
 Testing 4
 PUSHING THE TEST
+Testing the marp CLI version
