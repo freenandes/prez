@@ -36,21 +36,21 @@ jobs:
       - name: Marp Build (README)
         uses: docker://marpteam/marp-cli
         with:
-          args: README.md -o build/index.html
+          args: README.md --theme-set build/themes/pmcf.css -o build/index.html
         env:
           MARP_USER: root:root
 
       - name: Marp Build (README.pdf)
         uses: docker://marpteam/marp-cli
         with:
-          args: README.md --allow-local-files -o build/README.pdf
+          args: README.md --theme-set build/themes/pmcf.css --allow-local-files -o build/README.pdf
         env:
           MARP_USER: root:root
 
       - name: Marp Build (README.pptx)
         uses: docker://marpteam/marp-cli
         with:
-          args: README.md --allow-local-files -o build/README.pptx
+          args: README.md --theme-set build/themes/pmcf.css --allow-local-files -o build/README.pptx
         env:
           MARP_USER: root:root
 
@@ -62,7 +62,7 @@ jobs:
         if: steps.docs-folder-exists.outputs.has_docs == '0'
         uses: docker://marpteam/marp-cli
         with:
-          args: -I list/ -o build/list/
+          args: -I list/ --theme-set build/themes/pmcf.css -o build/list/
         env:
           MARP_USER: root:root
       
@@ -71,7 +71,7 @@ jobs:
         run: |
           for file in list/*.md; do
             filename=$(basename "$file" .md)
-            docker run --rm -v $PWD:/home/marp/app/ -e MARP_USER=root:root marpteam/marp-cli $file --allow-local-files -o build/list/$filename.pdf
+            docker run --rm -v $PWD:/home/marp/app/ -e MARP_USER=root:root marpteam/marp-cli $file --theme-set build/themes/pmcf.css --allow-local-files -o build/list/$filename.pdf
           done
 
       - name: Marp Build (list folder to PPTX)
@@ -79,7 +79,7 @@ jobs:
         run: |
           for file in list/*.md; do
             filename=$(basename "$file" .md)
-            docker run --rm -v $PWD:/home/marp/app/ -e MARP_USER=root:root marpteam/marp-cli $file --allow-local-files -o build/list/$filename.pptx
+            docker run --rm -v $PWD:/home/marp/app/ -e MARP_USER=root:root marpteam/marp-cli $file --theme-set build/themes/pmcf.css --allow-local-files -o build/list/$filename.pptx
           done
 
       - name: Deploy preview

@@ -4,6 +4,7 @@ lang: en
 theme: pmcf
 headingDivider: 3
 author: Pedro MC Fernandes
+description: Testing sandbox template
 size: 4:3
 ---
 
