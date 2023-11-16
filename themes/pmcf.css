@@ -11,14 +11,12 @@
 	src:
 		url("https://www.pmcf.xyz/prez/fonts/LexendZetta-Regular.ttf") format("truetype");
 	font-weight: normal;
-	font-display: swap;
 }
 @font-face {
 	font-family: "LexendZetta";
 	src:
 		url("https://www.pmcf.xyz/prez/fonts/LexendZetta-Bold.ttf") format("truetype");
 	font-weight: bold;
-	font-display: swap;
 }
 
 /* Typography */
