@@ -7,53 +7,24 @@
 /* Fonts */
 
 @font-face {
-	font-family: "LexendDeca";
+	font-family: "LexendZetta";
 	src:
-		url("https://www.pmcf.xyz/prez/fonts/LexendDeca.woff2") format("woff2 supports variations"),
-		url("https://www.pmcf.xyz/prez/fonts/LexendDeca.woff2") format("woff2-variations");
-	font-weight: 100 1000;
+		url("https://www.pmcf.xyz/prez/fonts/LexendZetta-Regular.ttf") format("truetype");
+	font-weight: normal;
 	font-display: swap;
-    font-variant-ligatures: common-ligatures;
 }
 @font-face {
 	font-family: "LexendZetta";
 	src:
-		url("https://www.pmcf.xyz/prez/fonts/LexendPeta.woff2") format("woff2 supports variations"),
-		url("https://www.pmcf.xyz/prez/fonts/LexendPeta.woff2") format("woff2-variations");
-	font-weight: 100 1000;
-	font-display: swap;
-    font-variant-ligatures: common-ligatures;
-}
-@font-face {
-	font-family: "Park";
-	src:
-		url("https://www.pmcf.xyz/prez/fonts/NationalPark.woff2") format("woff2 supports variations"),
-		url("https://www.pmcf.xyz/prez/fonts/NationalPark.woff2") format("woff2-variations");
-	font-weight: 275 800;
-	font-display: swap;
-    font-variant-ligatures: common-ligatures;
-}
-@font-face {
-	font-family: "Coconat";
-	src: url("https://www.pmcf.xyz/prez/fonts/CoconatBoldExt.woff2") format("woff2");
-    font-weight: bold;
-	font-display: swap;
-}
-@font-face {
-	font-family: "Coconat";
-	src: url("https://www.pmcf.xyz/prez/fonts/CoconatRegular.woff2") format("woff2");
-    font-weight: normal;
-	font-display: swap;
-}
-@font-face {
-	font-family: "Compagnon";
-	src: url("https://www.pmcf.xyz/prez/fonts/CompagnonScript.woff2") format("woff2");
+		url("https://www.pmcf.xyz/prez/fonts/LexendZetta-Bold.ttf") format("truetype");
+	font-weight: bold;
 	font-display: swap;
 }
 
 /* Typography */
 
-svg h1 {
-    font-family: "Coconat" !important;
+h1 {
+    font-family: "LexendZetta" !important;
+	font-weight: bold;
     text-transform: uppercase;
 }
