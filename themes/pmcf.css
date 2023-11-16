@@ -54,6 +54,7 @@
 /* Typography */
 
 h1 {
-    font-family: "Coconat";
+    font-family: "Coconat" !important;
+	
     text-transform: uppercase;
 }
