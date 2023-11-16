@@ -7,7 +7,7 @@ author: Pedro MC Fernandes
 size: 4:3
 ---
 
-# <!--fit--> Caravela
+# <!--fit-->Caravela
 
 ![bg](../img/ocean.jpg)
 

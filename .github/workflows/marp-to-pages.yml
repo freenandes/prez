@@ -29,6 +29,9 @@ jobs:
 
       - name: Copy fonts directory (if exists)
         run: if [[ -d fonts ]]; then cp -R fonts build/fonts; fi
+      
+      - name: Copy themes directory (if exists)
+        run: if [[ -d themes ]]; then cp -R themes build/themes; fi
 
       - name: Marp Build (README)
         uses: docker://marpteam/marp-cli
