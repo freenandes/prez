@@ -24,27 +24,91 @@
 		url("https://www.pmcf.xyz/prez/fonts/LexendZetta-Bold.ttf") format("truetype");
 }
 
-/* Variables */
+/* Base layout */
 
-:root {
-	--fontFB: -apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
-}
+section {
+	/* Variables */
+	--fontFB: -apple-system, BlinkMacSystemFont, Segoe UI,Noto Sans, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
+	--s1: 16px;
+	--s2: calc(var(--s1) * 1.5);
+	--s3: calc(var(--s2) * 1.5);
+	--s5: calc(var(--s3) * 1.5);
+	--s8: calc(var(--s5) * 1.5);
+	--paper: #f8f8f6;
+	--charcoal: #23252f;
+	--gray: #8e8f93;
 
-/* Framing */
-
-.bespoke-marp-parent {
-	margin: 8px;
+	/* Regular styling */
+	font-size: var(--s3);
+	padding: var(--s8);
+	background-color: var(--paper);
 }
 
 /* Content */
 
-section * {
+section *, p {
 	font-family: "Lexend", var(--fontFB);
 	font-weight: normal;
+	color: var(--charcoal);
 }
-
-h1 {
+p, ul, ol {
+	font-size: var(--s2);
+	line-height: 1.5em;
+	padding: 0;
+	margin: 0 0 1.5em;
+}
+ul, ol {
+	padding-left: 1em;
+}
+li {
+	margin: 0;
+}
+h1, h2, h3 {
     font-family: "LexendZetta", var(--fontFB);
 	font-weight: bold;
-    text-transform: uppercase;
+	font-size: var(--s3);
+	line-height: 1em;
+	text-transform: uppercase;
+	margin: 0 0 0.5em -0.125em;
+	color: var(--charcoal);
+}
+h4, h5, h6 {
+	font-weight: bold;
+	line-height: 1.25em;
+	margin: 0 0 0.5em;
+	color: var(--charcoal);
+}
+h4 {
+	font-size: calc(var(--s2) * 1.25);
+	letter-spacing: 0.03125em;
+}
+h5 {
+	font-size: var(--s2);
+	letter-spacing: 0.0625em;
+}
+h6 {
+	font-size: var(--s1);
+	text-transform: uppercase;
+	letter-spacing: 0.125em;
+}
+header {
+	top: var(--s5);
+}
+footer {
+	bottom: var(--s5);
+}
+header,
+footer {
+	font-size: var(--s1);
+	right: var(--s8);
+	left: var(--s8);
+	height: auto;
+	color: var(--charcoal);
+}
+
+/* Alternates */
+
+section.cover,
+section.separator {
+	text-align: center;
 }
