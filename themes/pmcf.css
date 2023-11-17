@@ -48,10 +48,13 @@ section {
 	padding: var(--s8);
 	background-color: var(--paper);
 }
+::backdrop {
+	background-color: black;
+}
 
 /* Content */
 
-section *, p {
+section *, p, section::after {
 	font-family: "Lexend", var(--fontFB);
 	font-weight: normal;
 	color: var(--charcoal);
@@ -112,9 +115,17 @@ footer {
 }
 header,
 footer {
-	font-size: var(--s1);
 	right: var(--s8);
 	left: var(--s8);
+}
+section::after {
+	right: var(--s5);
+	bottom: var(--s5);
+}
+header,
+footer,
+section::after {
+	font-size: var(--s1);
 	height: auto;
 	color: var(--charcoal);
 }
