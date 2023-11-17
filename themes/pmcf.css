@@ -121,11 +121,11 @@ footer {
 	left: var(--s8);
 }
 section::after {
-	content: attr(data-marpit-pagination) ' of ' attr(data-marpit-pagination-total);
+	content: 'Slide ' attr(data-marpit-pagination) '—' attr(data-marpit-pagination-total);
 	text-align: center;
 	right: var(--s5);
 	bottom: var(--s5);
-	padding: 0 0.5em;
+	padding: 0 0.625em;
 	border-radius: 1em;
 	background-color: var(--paper);
 }
