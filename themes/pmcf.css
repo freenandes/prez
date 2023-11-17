@@ -37,7 +37,6 @@ section {
 	--readLine: 880px;
 	--paper: #f8f8f6;
 	--charcoal: #23252f;
-	--gray: #8e8f93;
 	--ink: #0050db;
 
 	/* Regular styling */
@@ -117,17 +116,13 @@ footer {
 }
 header,
 footer {
-	right: var(--s8);
-	left: var(--s8);
+	left: calc(var(--s8) - 0.625em);
 }
 section::after {
-	content: 'Slide ' attr(data-marpit-pagination) '—' attr(data-marpit-pagination-total);
+	content: attr(data-marpit-pagination) ' of ' attr(data-marpit-pagination-total);
 	text-align: center;
-	right: var(--s5);
+	right: calc(var(--s8) - 0.625em);
 	bottom: var(--s5);
-	padding: 0 0.625em;
-	border-radius: 1em;
-	background-color: var(--paper);
 }
 header,
 footer,
@@ -135,7 +130,10 @@ section::after {
 	font-size: var(--s1);
 	height: auto;
 	color: var(--charcoal);
-	opacity: 0.5;
+	padding: 0 0.625em;
+	border-radius: 1em;
+	background-color: var(--paper);
+	opacity: 0.4;
 }
 section[data-marpit-advanced-background="background"] > div[data-marpit-advanced-background-container] > figure {
 	margin: 1em;
@@ -146,4 +144,11 @@ section[data-marpit-advanced-background="background"] > div[data-marpit-advanced
 
 section.sep {
 	text-align: center;
+}
+section:not(.sep) {
+	justify-content: flex-start;
+}
+section.boost p, section.boost ul, section.boost ol {
+	font-size: var(--s3);
+	max-width: none;
 }
