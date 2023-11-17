@@ -4,8 +4,10 @@ lang: en
 theme: pmcf
 ---
 
-# Presentations by Pedro MC Fernandes
+# My presentations
 
-Hi! Welcome, friend! This is my personal bunker of presentations. Feel free to browse around, even though presentations do need a presenter to make complete sense out of the laid-out topic, right?
+Hi! Welcome, friend! This is my personal vault of slide decks. Feel free to browse around, even though presentations do need a presenter to make complete sense, but... take a look anyway!
 
-If you want to know me better, maybe browse my [personal website](https://www.pmcf.xyz) or my digital garden [Topo da Mente](https://www.pmcf.xyz/topo-da-mente). Cheers!
+If you want to know me better, browse my [personal website](https://www.pmcf.xyz) or read a bit of my digital garden in [Topo da Mente](https://www.pmcf.xyz/topo-da-mente). Anyway, have fun! Cheers!
+
+_— Pedro MC Fernandes_

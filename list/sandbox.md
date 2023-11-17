@@ -14,7 +14,7 @@ description: Testing sandbox template
 
 <!--
 _color: var(--paper)
-_class: cover
+_class: sep
 -->
 
 # Caravela
@@ -23,7 +23,7 @@ _class: cover
 
 <!--
 _color: var(--paper)
-_class: cover
+_class: sep
 -->
 
 ## A Caravela
@@ -61,14 +61,14 @@ _footer: ""
 # Tipos
 
 <!--
-_class: separator
+_class: sep
 _header: ""
 _footer: ""
 -->
 
 ### Tipos de Caravela
 
-Há que considerar dois tipos de caravelas, a caravela latina e a caravela redonda.
+Há que considerar dois tipos de caravelas.
 
 #### Caravela Latina
 
@@ -112,7 +112,7 @@ Sendo que este último foi nomeado definitivamente para o cargo pelo rei Filipe 
 
 ##### Origem
 
-As Cortes têm origem na antiga Cúria Régia, órgão puramente consultivo que assessorava a Monarquia na resolução de diversas questões, ainda no tempo do Condado Portucalense, sendo que a primeira Cúria documentada para o Reino de Portugal reuniu-se em Coimbra, em 1211, nos primeiros meses do reinado de D. Afonso II.
+As Cortes têm origem na antiga Cúria Régia, órgão puramente consultivo que assessorava a Monarquia na resolução de diversas questões, ainda no tempo do Condado Portucalense, sendo que a primeira Cúria documentada para o Reino de Portugal reuniu-se em Coimbra.
 
 ###### Composição e funcionamento
 
