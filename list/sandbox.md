@@ -42,6 +42,8 @@ _class: boost
 
 ## Forms
 
+This code is using the `<form>` tag to our advantage and then using the `<input type="submit">` at the end.
+
 ```html
 <form action="/submit.php" method="post">
     <label>Name</label>
