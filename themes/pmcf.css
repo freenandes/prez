@@ -7,22 +7,44 @@
 /* Fonts */
 
 @font-face {
-	font-family: "LexendZetta";
+	font-family: "Lexend";
 	src:
-		url("https://www.pmcf.xyz/prez/fonts/LexendZetta-Regular.ttf") format("truetype");
+		url("https://www.pmcf.xyz/prez/fonts/LexendDeca-Regular.ttf") format("truetype");
 	font-weight: normal;
+}
+@font-face {
+	font-family: "Lexend";
+	src:
+		url("https://www.pmcf.xyz/prez/fonts/LexendDeca-Bold.ttf") format("truetype");
+	font-weight: bold;
 }
 @font-face {
 	font-family: "LexendZetta";
 	src:
 		url("https://www.pmcf.xyz/prez/fonts/LexendZetta-Bold.ttf") format("truetype");
-	font-weight: bold;
 }
 
-/* Typography */
+/* Variables */
+
+:root {
+	--fontFB: -apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+}
+
+/* Framing */
+
+.bespoke-marp-parent {
+	margin: 8px;
+}
+
+/* Content */
+
+section * {
+	font-family: "Lexend", var(--fontFB);
+	font-weight: normal;
+}
 
 h1 {
-    font-family: "LexendZetta" !important;
+    font-family: "LexendZetta", var(--fontFB);
 	font-weight: bold;
     text-transform: uppercase;
 }
