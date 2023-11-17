@@ -31,8 +31,8 @@ _class: cover
 A caravela é um tipo de embarcação inventada pelos portugueses durante a Era dos Descobrimentos, nos séculos XV e XVI.
 
 <!--
-header: "Sandbox presentation"
-footer: "By Pedro MC Fernandes"
+header: "Sandbox Presentation"
+footer: "Pedro MC Fernandes"
 paginate: true
 -->
 
