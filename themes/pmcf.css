@@ -26,8 +26,13 @@
 
 /* Base layout */
 
-::backdrop {
-	margin: 8px;
+
+body[data-bespoke-view] svg.bespoke-marp-slide,
+body[data-bespoke-view="next"] svg.bespoke-marp-slide {
+	width: 99%;
+	height: 99%;
+	top: 0.5%;
+	left: 0.5%;
 }
 section {
 	/* Variables */
@@ -46,6 +51,9 @@ section {
 	font-size: var(--s3);
 	padding: var(--s8);
 	background-color: var(--paper);
+}
+::backdrop {
+	background-color: var(--charcoal);
 }
 
 /* Content */
