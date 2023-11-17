@@ -31,10 +31,28 @@ _class: sep
 A caravela é um tipo de embarcação inventada pelos portugueses durante a Era dos Descobrimentos, nos séculos XV e XVI.
 
 <!--
-header: "Sandbox Presentation"
-footer: "Pedro MC Fernandes"
+footer: "Sandbox by Pedro MC Fernandes"
 paginate: true
+_class: boost
 -->
+
+## Zeca Afonso
+
+> Tu podes, com certeza, conviver com os outros, mas nunca seres os outros. Eles podem ser muito bons, mas tu és sempre melhor porque és diferente e o único com as tuas características.
+
+## Forms
+
+```html
+<form action="/submit.php" method="post">
+    <label>Name</label>
+    <input type="text" name="name">
+    <label>Email</label>
+    <input type="text" name="email">
+    <label>Message</label>
+    <textarea name="message"></textarea>
+    <input type="submit" value="Submit">
+</form> 
+```
 
 ### Etimologia
 
@@ -52,17 +70,11 @@ A primeira referência documental às caravelas data de 1255, constando do foral
 
 ![bg](../img/ocean.jpg)
 
-<!--
-_header: ""
-_footer: ""
--->
-
 # Tipos
 
 <!--
 _paginate: false
 _class: sep
-_header: ""
 _footer: ""
 -->
 
