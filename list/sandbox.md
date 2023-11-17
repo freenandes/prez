@@ -5,7 +5,7 @@ theme: pmcf
 headingDivider: 3
 author: Pedro MC Fernandes
 description: Testing sandbox template
-size: 4:3
+# size: 4:3
 ---
 
 # <!--fit-->Caravela
@@ -13,7 +13,16 @@ size: 4:3
 ![bg](../img/ocean.jpg)
 
 <!--
-_color: white
+_color: var(--paper)
+_class: cover
+-->
+
+# Caravela
+
+![bg](../img/ocean.jpg)
+
+<!--
+_color: var(--paper)
 _class: cover
 -->
 
@@ -67,4 +76,62 @@ A caravela latina é a original, relativamente à qual não há unanimidade na p
 
 #### Caravela Redonda
 
-A caravela redonda é que se poderá considerar a invenção dos Portugueses já que resultou dos conhecimentos recolhidos e das propostas de Bartolomeu Dias depois de regressar do Cabo da Boa Esperança, com objetivos de melhoramento das suas qualidades de navegação face aos ventos que encontrou.
+A caravela redonda é que se poderá considerar a invenção dos Portugueses já que resultou dos conhecimentos recolhidos e das propostas de Bartolomeu Dias.
+
+### Lista de referências
+
+Em 1531, João III de Portugal encarregou-o da educação dos seus irmãos mais novos, Luís e Henrique. Anos depois, foi também responsável pela educação do neto do rei (e futuro rei), Sebastião.
+
+- Cronologia dos descobrimentos portugueses
+- Ciência Náutica Portuguesa
+- Navegadores de Portugal
+
+Em 1544 foi-lhe confiada a cátedra de matemática da Universidade de Coimbra, a maior distinção que se podia conferir, no país, à época, a um matemático. 
+
+### Trabalhos originais
+
+Em Agosto de 2009, a Fundação Calouste Gulbenkian e a Academia de Ciências de Lisboa (re)publicaram as obras completas de Pedro Nunes.
+
+1. Tratado em defensão da carta de marear (1539)
+2. Tratado sobre certas dúvidas da navegação (1547)
+3. De crepusculis (Sobre o Crepúsculo) (1542)
+
+Isto também mostra que Pedro Nunes era um pioneiro na resolução de problemas de máximos e mínimos, que só se popularizaram no século seguinte, com o uso do cálculo diferencial.
+
+### Tomás de Orta
+
+Foi nomeado cosmógrafo-mor em 30 de maio de 1582, em substituição de Pedro Nunes.
+
+No ano seguinte já estaria doente e incapacitado de exercer plenamente as funções e foi reformado em 15 de Junho de 1583 mas mantendo o título até à sua morte em 6 de junho de 1594.
+
+Foi substituído por Luís de Almada (que o apresentou ao cargo), a partir de 4 de abril de 1596 e por João Baptista Lavanha em 13 de fevereiro de 1591.
+
+Sendo que este último foi nomeado definitivamente para o cargo pelo rei Filipe I de Portugal em 10 de Julho de 1596.
+
+### Cortes em Portugal
+
+##### Origem
+
+As Cortes têm origem na antiga Cúria Régia, órgão puramente consultivo que assessorava a Monarquia na resolução de diversas questões, ainda no tempo do Condado Portucalense, sendo que a primeira Cúria documentada para o Reino de Portugal reuniu-se em Coimbra, em 1211, nos primeiros meses do reinado de D. Afonso II.
+
+###### Composição e funcionamento
+
+As Cortes de Portugal eram compostas pelo clero (prelados diocesanos, representantes dos cabidos e superiores das ordens religiosas), pela nobreza e pelo povo (que era representado pelos procuradores dos concelhos e por algumas pessoas ilustres).
+
+### Heading 3
+
+#### Heading 4
+
+##### Heading 5
+
+###### Heading 6
+
+### Lists
+
+- This is the first level
+    - This is the second level
+        - This is the third level
+
+1. This is the first level
+    1. This is the second level
+        1. This is the third level
