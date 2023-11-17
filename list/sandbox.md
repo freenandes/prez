@@ -53,7 +53,7 @@ A primeira referência documental às caravelas data de 1255, constando do foral
 ![bg](../img/ocean.jpg)
 
 <!--
-paginate: false
+_paginate: false
 _header: ""
 _footer: ""
 -->
