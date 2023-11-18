@@ -26,7 +26,7 @@
 @font-face {
 	font-family: "Monaspace";
 	src:
-		url("https://www.pmcf.xyz/prez/fonts/MonaspaceNeon-Regular.ttf") format("opentype");
+		url("https://www.pmcf.xyz/prez/fonts/MonaspaceNeon-Regular.otf") format("opentype");
 }
 
 /* Base layout */
@@ -44,7 +44,7 @@ section {
 	--paper: #f8f8f6;
 	--charcoal: #23252f;
 	--ink: #0050db;
-	--light: #DEDEDD;
+	--light: #E6E6E5;
 
 	/* Regular styling */
 	font-size: var(--s3);
@@ -160,20 +160,29 @@ blockquote {
 
 /* Code snippets */
 
-code {
-	padding: 0.0625em 0.125em;
-}
-code, pre, [is="marp-pre"] {
+code,
+pre,
+[is="marp-pre"],
+pre span,
+[is="marp-pre"] span {
 	font-family: "Monaspace", var(--fontFBCode);
+}
+code {
+	padding: 0.125em;
+}
+code,
+pre,
+[is="marp-pre"] {
 	font-size: inherit;
 	border: none;
 	border-radius: 5px;
 	background-color: var(--light);
 }
-pre, [is="marp-pre"] {
+pre,
+[is="marp-pre"] {
 	font-size: var(--s2);
 	line-height: 1.25em;
-	padding: 0.5em 0.75em;
+	padding: 1em;
 	margin: 0 0 1.5em;
 }
 
