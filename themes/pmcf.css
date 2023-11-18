@@ -23,12 +23,18 @@
 	src:
 		url("https://www.pmcf.xyz/prez/fonts/LexendZetta-Bold.ttf") format("truetype");
 }
+@font-face {
+	font-family: "Monaspace";
+	src:
+		url("https://www.pmcf.xyz/prez/fonts/MonaspaceNeon-Regular.ttf") format("opentype");
+}
 
 /* Base layout */
 
 section {
 	/* Variables */
 	--fontFB: -apple-system, BlinkMacSystemFont, Segoe UI,Noto Sans, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
+	--fontFBCode: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace;
 	--s1: 16px;
 	--s2: calc(var(--s1) * 1.5);
 	--s3: calc(var(--s2) * 1.5);
@@ -38,6 +44,7 @@ section {
 	--paper: #f8f8f6;
 	--charcoal: #23252f;
 	--ink: #0050db;
+	--light: #DEDEDD;
 
 	/* Regular styling */
 	font-size: var(--s3);
@@ -50,7 +57,17 @@ section {
 
 /* Content */
 
-section:not(.sep) h1, section:not(.sep) h2, section:not(.sep) h3, section:not(.sep) h4, section:not(.sep) h5, section:not(.sep) h6, section:not(.sep) p, section:not(.sep) ul, section:not(.sep) ol {
+section:not(.sep):not(.boost) h1,
+section:not(.sep):not(.boost) h2,
+section:not(.sep):not(.boost) h3,
+section:not(.sep):not(.boost) h4,
+section:not(.sep):not(.boost) h5,
+section:not(.sep):not(.boost) h6,
+section:not(.sep):not(.boost) p,
+section:not(.sep):not(.boost) ul,
+section:not(.sep):not(.boost) ol,
+section:not(.sep):not(.boost) blockquote {
+	box-sizing: border-box;
 	max-width: var(--readLine);
 }
 section *, p, section::after {
@@ -135,9 +152,29 @@ section::after {
 	background-color: var(--paper);
 	opacity: 0.4;
 }
-section[data-marpit-advanced-background="background"] > div[data-marpit-advanced-background-container] > figure {
-	margin: 1em;
-	border-radius: 1em;
+blockquote {
+	padding: 0 0 0 0.875em;
+	margin: 0 0 1.5em;
+	border-left: 0.125em solid var(--charcoal);
+}
+
+/* Code snippets */
+
+code {
+	padding: 0.0625em 0.125em;
+}
+code, pre, [is="marp-pre"] {
+	font-family: "Monaspace", var(--fontFBCode);
+	font-size: inherit;
+	border: none;
+	border-radius: 5px;
+	background-color: var(--light);
+}
+pre, [is="marp-pre"] {
+	font-size: var(--s2);
+	line-height: 1.25em;
+	padding: 0.5em 0.75em;
+	margin: 0 0 1.5em;
 }
 
 /* Alt styles */
@@ -150,5 +187,4 @@ section:not(.sep) {
 }
 section.boost p, section.boost ul, section.boost ol {
 	font-size: var(--s3);
-	max-width: none;
 }
