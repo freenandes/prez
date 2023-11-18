@@ -36,7 +36,7 @@ paginate: true
 _class: boost
 -->
 
-## Zeca Afonso
+## Agostinho da Silva
 
 > Tu podes, com certeza, conviver com os outros, mas nunca seres os outros. Eles podem ser muito bons, mas tu és sempre melhor porque és diferente e o único com as tuas características.
 
