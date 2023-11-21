@@ -155,7 +155,13 @@ section::after {
 blockquote {
 	padding: 0 0 0 0.875em;
 	margin: 0 0 1.5em;
-	border-left: 0.125em solid var(--charcoal);
+	border-left: 0.1875em solid var(--charcoal);
+}
+blockquote::before {
+	content: """;
+}
+blockquote > :first-child {
+	text-indent: -0.5em;
 }
 
 /* Code snippets */
