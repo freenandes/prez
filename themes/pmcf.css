@@ -174,7 +174,7 @@ blockquote > *:last-child::after {
 	vertical-align: -0.125em;
 }
 blockquote > *:first-child {
-	text-indent: -0.75em;
+	text-indent: -0.65625em;
 }
 
 /* Code snippets */
