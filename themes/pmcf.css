@@ -150,7 +150,7 @@ section::after {
 	padding: 0 0.625em;
 	border-radius: 1em;
 	background-color: var(--paper);
-	opacity: 0.4;
+	opacity: 0.5;
 }
 blockquote {
 	padding: 0 0 0 0.875em;
@@ -191,9 +191,19 @@ pre,
 section.sep {
 	text-align: center;
 }
+section.sep header,
+section.sep footer {
+	left: 50%;
+	transform: translateX(-50%);
+}
 section:not(.sep) {
 	justify-content: flex-start;
 }
-section.boost p, section.boost ul, section.boost ol {
+section.boost p,
+section.boost ul,
+section.boost ol {
 	font-size: var(--s3);
+}
+section.v-align {
+	justify-content: center;
 }
