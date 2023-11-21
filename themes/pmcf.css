@@ -161,14 +161,17 @@ blockquote {
 }
 blockquote > *:first-child::before {
 	content: "\201C";
-	color: var(--lightgray);
 }
 blockquote > *:last-child::after {
 	content: "\201D";
+}
+blockquote > *:first-child::before,
+blockquote > *:last-child::after {
+	font-size: 1.375em;
 	color: var(--lightgray);
 }
 blockquote > *:first-child {
-	text-indent: -0.4375em;
+	text-indent: -0.625em;
 }
 
 /* Code snippets */
