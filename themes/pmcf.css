@@ -157,10 +157,8 @@ blockquote {
 	margin: 0 0 1.5em;
 	border-left: 0.1875em solid var(--charcoal);
 }
-blockquote::before {
-	content: """;
-}
-blockquote > :first-child {
+blockquote > *:first-child::before {
+	content: "\201C";
 	text-indent: -0.5em;
 }
 
