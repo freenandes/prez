@@ -45,6 +45,8 @@ section {
 	--charcoal: #23252f;
 	--ink: #0050db;
 	--light: #E6E6E5;
+	--lightgray: #c3c3c4;
+	--gray: #8e8f93;
 
 	/* Regular styling */
 	font-size: var(--s3);
@@ -159,11 +161,11 @@ blockquote {
 }
 blockquote > *:first-child::before {
 	content: "\201C";
-	color: var(--light);
+	color: var(--lightgray);
 }
 blockquote > *:last-child::after {
 	content: "\201D";
-	color: var(--light);
+	color: var(--lightgray);
 }
 blockquote > *:first-child {
 	text-indent: -0.4375em;
