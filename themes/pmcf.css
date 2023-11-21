@@ -167,11 +167,14 @@ blockquote > *:last-child::after {
 }
 blockquote > *:first-child::before,
 blockquote > *:last-child::after {
+	font-size: 1.5em;
+	line-height: 0;
 	width: 0.5em;
 	color: var(--lightgray);
+	vertical-align: -0.125em;
 }
 blockquote > *:first-child {
-	text-indent: -0.5em;
+	text-indent: -0.75em;
 }
 
 /* Code snippets */
