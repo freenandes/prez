@@ -1,0 +1,12 @@
+/* @theme perc */
+
+/* Imports */
+
+@import 'pmcf';
+
+/* Overrides */
+
+section.sep h1,
+section.sep h2 {
+    font-size: var(--s5);
+}
