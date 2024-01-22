@@ -7,24 +7,24 @@
 /* Fonts */
 
 @font-face {
-	font-family: "Lexend";
+	font-family: "Display";
 	src:
 		url("https://www.pmcf.xyz/prez/fonts/LexendDeca-Regular.ttf") format("truetype");
 	font-weight: normal;
 }
 @font-face {
-	font-family: "Lexend";
+	font-family: "Display";
 	src:
 		url("https://www.pmcf.xyz/prez/fonts/LexendDeca-Bold.ttf") format("truetype");
 	font-weight: bold;
 }
 @font-face {
-	font-family: "LexendZetta";
+	font-family: "Long Form";
 	src:
 		url("https://www.pmcf.xyz/prez/fonts/LexendZetta-Bold.ttf") format("truetype");
 }
 @font-face {
-	font-family: "Monaspace";
+	font-family: "Code";
 	src:
 		url("https://www.pmcf.xyz/prez/fonts/MonaspaceNeon-Regular.otf") format("opentype");
 }
@@ -73,7 +73,7 @@ section:not(.sep):not(.boost) blockquote {
 	max-width: var(--readLine);
 }
 section *, p, section::after {
-	font-family: "Lexend", var(--fontFB);
+	font-family: "Display", var(--fontFB);
 	font-weight: normal;
 	color: var(--charcoal);
 }
@@ -90,7 +90,7 @@ li {
 	margin: 0;
 }
 h1, h2, h3 {
-    font-family: "LexendZetta", var(--fontFB);
+    font-family: "Long Form", var(--fontFB);
 	font-weight: bold;
 	font-size: var(--s3);
 	line-height: 1.125em;
@@ -184,7 +184,7 @@ pre,
 [is="marp-pre"],
 pre span,
 [is="marp-pre"] span {
-	font-family: "Monaspace", var(--fontFBCode);
+	font-family: "Code", var(--fontFBCode);
 }
 code {
 	padding: 0.125em;
@@ -225,4 +225,14 @@ section.boost ol {
 }
 section.v-align {
 	justify-content: center;
+}
+
+/* Dark mode */
+
+section.dark * {
+    color: var(--paper);
+}
+section.dark > footer,
+section.dark > footer > a {
+    color: var(--charcoal);
 }
