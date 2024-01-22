@@ -14,5 +14,5 @@ section.boost h3 {
 
 section.sep h1,
 section.sep h2 {
-    font-size: var(--s5);
+    font-size: calc(var(--s5) * 1);
 }
