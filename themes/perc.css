@@ -10,3 +10,9 @@ section.sep h1,
 section.sep h2 {
     font-size: var(--s5);
 }
+
+section.boost p,
+section.boost ul,
+section.boost ol {
+	font-size: var(--s5);
+}
