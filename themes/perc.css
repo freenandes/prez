@@ -6,6 +6,12 @@
 
 /* Overrides */
 
+section.boost h1,
+section.boost h2,
+section.boost h3 {
+    font-size: var(--s5);
+}
+
 section.sep h1,
 section.sep h2 {
     font-size: var(--s5);
