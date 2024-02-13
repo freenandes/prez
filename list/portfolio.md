@@ -16,7 +16,7 @@ _backgroundColor: var(--charcoal)
 _color: var(--paper)
 -->
 
-<img class="badge" src="../portfolio/peace.svg">
+<img class="badge" src="../img/portfolio/peace.svg">
 
 <style scoped>
    img.badge {
@@ -40,7 +40,7 @@ _color: var(--paper)
 
 ## Smartidiom’s Internal Apps
 
-![bg](../portfolio/smartidiom.png)
+![bg](../img/portfolio/smartidiom.png)
 
 <!--
 _color: var(--paper)
@@ -62,7 +62,7 @@ _class: sep boost
 - Vast network of freelance linguistic professionals
 - Customers like Apple, Samsung, Netflix, and more
 
-![bg](../portfolio/plus-n-go.png)
+![bg](../img/portfolio/plus-n-go.png)
 
 <!--
 _class: v-spaced
@@ -77,7 +77,7 @@ _class: v-spaced
 - 1 designer/front-end developer
 - Freedom to create
 
-![bg right:56.25%](../portfolio/team.png)
+![bg right:56.25%](../img/portfolio/team.png)
 
 <!--
 _class: v-spaced
@@ -89,7 +89,7 @@ _class: v-spaced
 
 To create an ecosystem of web apps that can reduce time to delivery, but also elevate the quality, of the linguistic services operations
 
-![bg right:60%](../portfolio/ecosystem.png)
+![bg right:60%](../img/portfolio/ecosystem.png)
 
 <!--
 _class: v-spaced
@@ -109,7 +109,7 @@ _class: v-spaced
 - 2-year deadline
 - Tight budget
 
-![bg](../portfolio/whiteboard.png)
+![bg](../img/portfolio/whiteboard.png)
 
 <!--
 _class: content-flush-top
@@ -128,7 +128,7 @@ _class: content-flush-top
 7. Develop and upkeep FE components
 8. Document and manage styles, components, and patterns
 
-![bg](../portfolio/task-diagram.png)
+![bg](../img/portfolio/task-diagram.png)
 
 <!--
 _class: v-spaced
@@ -138,7 +138,7 @@ _class: v-spaced
 
 ### Front-end Walkthrough
 
-![bg](../portfolio/suppliers-dashboard.png)
+![bg](../img/portfolio/suppliers-dashboard.png)
 
 <!--
 _class: h-align
@@ -159,7 +159,7 @@ _class: v-spaced dark
 _backgroundColor: var(--charcoal)
 -->
 
-<img class="badge" src="../portfolio/satisfaction.svg">
+<img class="badge" src="../img/portfolio/satisfaction.svg">
 
 <style scoped>
    img.badge {
@@ -207,7 +207,7 @@ Imagem de __
 - Large budget
 - Entire markets for experimentation
 
-![bg right:50%](../portfolio/whiteboarding.png)
+![bg right:50%](../img/portfolio/whiteboarding.png)
 
 <!--
 _class: v-spaced
@@ -219,7 +219,7 @@ _class: v-spaced
 
 Create modern, clear, out-of-the-box but still effective, shopping and operations web apps for flights, accommodations, and experiences
 
-![bg](../portfolio/travel-commerce.png)
+![bg](../img/portfolio/travel-commerce.png)
 
 ---
 
@@ -232,7 +232,7 @@ Create modern, clear, out-of-the-box but still effective, shopping and operation
 - Political disputes and espionage
 - COVID-19 affecting travels
 
-![bg right:50%](../portfolio/diagrams.png)
+![bg right:50%](../img/portfolio/diagrams.png)
 
 <!--
 _class: v-spaced
@@ -252,7 +252,7 @@ _class: v-spaced
 8. Advocate a new design paradigm within TUI
 9. Manage and promote the design system
 
-![bg](../portfolio/payments.png)
+![bg](../img/portfolio/payments.png)
 
 <!--
 _class: v-spaced
@@ -264,7 +264,7 @@ _class: v-spaced
 
 Complete e-commerce with self-checkout and account management
 
-![bg](../portfolio/ecommerce.png)
+![bg](../img/portfolio/ecommerce.png)
 
 <!--
 _class: h-align content-flush-top
@@ -274,35 +274,39 @@ _class: h-align content-flush-top
 
 ### Guide Travelers
 
-![bg](../portfolio/pagebuilder.png)
+![bg](../img/portfolio/pagebuilder.png)
 
 ---
 
 ### Manage Markets
 
-![bg](../portfolio/management.png)
+![bg](../img/portfolio/management.png)
 
 ---
 
 ### Distribution
 
-![bg](../portfolio/distribution.png)
+![bg](../img/portfolio/distribution.png)
 
 ---
 
 ### Tagus Design System
 
-![bg](../portfolio/tagus.png)
+![bg](../img/portfolio/tagus.png)
 
 ---
 
 ### Holie
 
-Idea about
+Idea about binding user’s expectations with TUI Group’s services offerings.
 
 Lisbon Tech Hub’s experimentation laboratories
 
-<video src="../portfolio/holie.mp4" autoplay loop></video>
+<!--
+_class: v-spaced
+-->
+
+<video src="../img/portfolio/holie.mp4" autoplay loop></video>
 
 <style scoped>
    video {
@@ -314,6 +318,9 @@ Lisbon Tech Hub’s experimentation laboratories
       height: calc(100% - 6em);
       transform: translate(50%, -50%);
       mix-blend-mode: multiply;
+   }
+   section > * {
+      width: 50%;
    }
 </style>
 
@@ -335,7 +342,7 @@ _class: v-spaced dark
 _backgroundColor: var(--charcoal)
 -->
 
-<img class="badge" src="../portfolio/satisfaction.svg">
+<img class="badge" src="../img/portfolio/satisfaction.svg">
 
 <style scoped>
    img.badge {
