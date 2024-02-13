@@ -8,7 +8,7 @@ description: A product designer née portfolio walkthrough
 
 # Pedro M.C. Fernandes
 
-A product designer née portfolio walkthrough
+A product designer née<br> portfolio walkthrough
 
 ![](../img/portfolio/peace.svg)
 
@@ -30,14 +30,14 @@ _color: var(--paper)
       background: none;
    }
    h1 {
-      font-size: calc(var(--s8) * 1.125) !important;
+      font-size: calc(var(--s8) * 1.1) !important;
       margin: 0;
    }
    section > :nth-last-child(2) {
       margin: 0;
    }
    section {
-      padding: 0 7.5em;
+      padding: 0;
    }
 </style>
 
@@ -427,7 +427,7 @@ _backgroundColor: var(--charcoal)
       background: none;
    }
    h2 {
-      font-size: calc(var(--s8) * 1.125) !important;
+      font-size: calc(var(--s8) * 1.1) !important;
       margin: 0;
    } 
    section > :nth-last-child(2) {
