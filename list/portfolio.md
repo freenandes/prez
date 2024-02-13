@@ -22,7 +22,7 @@ _color: var(--paper)
    img {
       position: absolute;
       top: 52%;
-      left: 82%;
+      left: 83.5%;
       width: 10em;
       height: auto;
       transform: translate(-50%, -50%) rotate(11deg);
@@ -31,8 +31,10 @@ _color: var(--paper)
    }
    h1 {
       font-size: calc(var(--s8) * 1.125) !important;
-      margin: 0 0 -0.125em;
-      padding-top: 0.25em;
+      margin: 0;
+   }
+   section > :nth-last-child(2) {
+      margin: 0;
    }
 </style>
 
@@ -172,6 +174,9 @@ _backgroundColor: var(--charcoal)
       background: none;
       transform: rotate(10deg);
    }
+   section > :nth-last-child(2) {
+      margin: 0;
+   }
 </style>
 
 ---
@@ -298,18 +303,20 @@ _class: h-align content-flush-top
 
 ### Holie
 
-Idea about binding user’s expectations with TUI Group’s services offerings.
+**Objective:** Pair people’s traveling preferences with the broad services offering of TUI Group.
 
-Lisbon Tech Hub’s experimentation laboratories
+**Pitch:** A person submits their traveling preferences to _auto-magically_ generate a complete, ready-to-book, pay-and-be-there travel package in a few minutes.
 
-![](../img/portfolio/holie.gif)
+<video autoplay loop src="../img/portfolio/holie.mp4"></video>
+
+<!-- ![](../img/portfolio/holie.gif) -->
 
 <!--
 _class: v-spaced
 -->
 
 <style scoped>
-   img {
+   video {
       position: absolute;
       display: block;
       top: 50%;
@@ -321,6 +328,9 @@ _class: v-spaced
    }
    section > * {
       width: 50%;
+   }
+   section > :nth-last-child(2) {
+      margin: 0;
    }
 </style>
 
@@ -354,6 +364,9 @@ _backgroundColor: var(--charcoal)
       height: auto;
       background: none;
       transform: rotate(10deg);
+   }
+   section > :nth-last-child(2) {
+      margin: 0;
    }
 </style>
 
