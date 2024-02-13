@@ -444,7 +444,7 @@ Improve the overall user experience across all open-source software
 
 ## Thank you
 
-mail@pmcf.xyz
+email@pmcf.xyz
 
 <!--
 _class: sep boost dark
