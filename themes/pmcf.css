@@ -264,6 +264,9 @@ section.content-flush-top li {
 section.dark * {
     color: var(--paper);
 }
+section.dark a:hover {
+	color: var(--gray);
+}
 section.dark > footer,
 section.dark > footer > a {
     color: var(--charcoal);
