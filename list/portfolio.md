@@ -8,7 +8,7 @@ description: A product designer née portfolio walkthrough
 
 # Pedro M.C. Fernandes
 
-A product designer née<br> portfolio walkthrough
+A product designer née portfolio walkthrough
 
 ![](../img/portfolio/peace.svg)
 
@@ -22,7 +22,7 @@ _color: var(--paper)
    img {
       position: absolute;
       top: 52%;
-      left: 83.5%;
+      left: 84%;
       width: 10em;
       height: auto;
       transform: translate(-50%, -50%) rotate(11deg);
@@ -36,22 +36,29 @@ _color: var(--paper)
    section > :nth-last-child(2) {
       margin: 0;
    }
+   section {
+      padding: 0 7.5em;
+   }
 </style>
 
 ---
 
-## Smartidiom Smart Apps
+## Fast Turnover Design
+
+Smartidiom
 
 ![bg](../img/portfolio/smartidiom.png)
 
 <!--
-_color: var(--paper)
-_class: sep boost
+_class: sep boost dark
 -->
 
 <style scoped>
    section {
-      padding: 1em 8em 0;
+      padding: 2em 6em 0;
+   }
+   h1, h2, h3 {
+      margin: 0
    }
 </style>
 
@@ -60,8 +67,8 @@ _class: sep boost
 ### Smartidiom
 
 - Linguistic services
-- Core team of about 10 professionals
-- Vast network of freelance linguistic professionals
+- Core team of about 15 professionals
+- Vast network of linguistic freelancers
 - Customers like Apple, Samsung, Netflix, and more
 
 ![bg](../img/portfolio/plus-n-go.png)
@@ -89,7 +96,7 @@ _class: v-spaced
 
 ### Objective
 
-To create an ecosystem of web apps that can reduce time to delivery, but also elevate the quality, of the linguistic services operations
+To create an ecosystem of web apps that reduces time to delivery, and elevates the quality of linguistic services
 
 ![bg right:60%](../img/portfolio/ecosystem.png)
 
@@ -121,14 +128,14 @@ _class: content-flush-top
 
 ### Design Ownership
 
-1. Audit the existing processes
+1. Audit the existing work processes
 2. Research competitors’ platforms
 3. Brainstorm and design a vision
 4. Interlink ecosystem and define IA
 5. Define usability flows and design key views
 6. Testing and validation
 7. Develop and upkeep FE components
-8. Document and manage styles, components, and patterns
+8. Document and manage styles and components
 
 ![bg](../img/portfolio/task-diagram.png)
 
@@ -150,11 +157,11 @@ _class: h-align
 
 ### Value for Smartidiom
 
-- Branding and graphic materials
+- Brand, marketing and visual design
 - Research data and insights
-- An open and collaborative design process
-- Front-end code contribution
-- Slayout design system, a collection of documented, ready-to-use, ready-to-scale UI content and components
+- Open and collaborative design
+- Front-end contributions
+- Slayout design system, ready-to-use, ready-to-scale UI content and components
 
 ![](../img/portfolio/satisfaction.svg)
 
@@ -177,23 +184,33 @@ _backgroundColor: var(--charcoal)
    section > :nth-last-child(2) {
       margin: 0;
    }
+   section > * {
+      width: 57%;
+   }
 </style>
 
 ---
 
-## Lisbon Tech Hub
+## Innovation Factory & 4x Power-ups
 
-![bg hue-rotate:20deg saturate:1.5](../img/portfolio/pool.jpg)
+TUI Group
+
+![bg hue-rotate:15deg saturate:1.5 brightness:1.1](../img/portfolio/pool.jpg)
 
 <!--
-_class: sep boost dark
+_class: sep boost
 _backgroundColor: #6CC5EB
-_color: #D40E14
 -->
 
 <style scoped>
    section {
-      padding: 0 8em 0;
+      padding: 1em 6em 0;
+   }
+   section > * {
+      color: #D40E14;
+   }
+   h1, h2, h3 {
+      margin: 0;
    }
 </style>
 
@@ -204,7 +221,7 @@ _color: #D40E14
 - Traveling and vacations: flights, facilities, amenities, and other services
 - Cruise ships, airlines, resorts, hotels, touristic experiences, and more
 - About 70k colleagues
-- Customers like couples, families with kids, and more
+- Customers like couples, families with kids, tours, and more
 
 ![bg right:50%](../img/portfolio/destinations(2).png)
 
@@ -220,11 +237,8 @@ _class: v-spaced
 - 2 data/SEO pros
 - 4 developers
 - 2 designers
-- Global Distribution Network
-- External development partnership companies, ~12 people
+- External development partnerships
 - Freedom to innovate
-- Large budget
-- Entire markets for experimentation
 
 ![bg right:50%](../img/portfolio/whiteboarding.png)
 
@@ -236,7 +250,7 @@ _class: v-spaced
 
 ### Objectives
 
-Create modern, clear, out-of-the-box but still effective, shopping and operations web apps for flights, accommodations, and experiences
+Create modern, clear, out-of-the-box but effective, for shopping and operations, web apps for flights, accommodations, and experiences
 
 ![bg](../img/portfolio/travel-commerce.png)
 
@@ -244,12 +258,12 @@ Create modern, clear, out-of-the-box but still effective, shopping and operation
 
 ### Problems
 
-- Poor user experience and reputation in the target markets
+- Poor reputation in the target markets
 - Legacy development processes
-- Legacy data lakes with huge gaps
+- Legacy data lakes with inconsistencies
 - Acute company segregation
-- Political disputes and espionage
-- COVID-19 affecting travels
+- Political disputes and _espionage_
+- COVID-19
 
 ![bg right:50%](../img/portfolio/diagrams.png)
 
@@ -262,13 +276,13 @@ _class: v-spaced
 ### Design Ownership
 
 1. Research with experts and customers
-2. Benchmarking, and synthesizing of quantitative and qual. data
-3. Brainstorm and design vision(s)
+2. Benchmarking and synthesis into insights
+3. Brainstorm and design a vision(s)
 4. Define usability flows and design key views
 5. Testing and validation
-6. Document and manage styles, components, and patterns
+6. Document and manage styles and components
 7. Design, set up and code experiments
-8. Advocate a new design paradigm within TUI
+8. Advocate innovation processes within TUI
 9. Manage and promote the design system
 
 ![bg](../img/portfolio/payments.png)
@@ -354,7 +368,7 @@ _class: v-spaced
 
 - Research data and insights
 - A fun and playful collaborative design process
-- Repurpose and valorization of 5 existing markets
+- Revamp of 5 markets
 - 100k web pages for 175 destinations
 - ~4x boost in traffic and revenue
 - Tagus design system, ready-to-scale interface designs and guidelines 
@@ -386,57 +400,7 @@ _backgroundColor: var(--charcoal)
 
 <!-- ---
 
-## Percona
-
-- Database-focused services and open-source software
-- About 300 colleagues
-- Users and customers from hobbyists and non-profit, to education, tech, government, and more
-
----
-
-### Team
-
-- 5 managers
-- 2 designers
-- Untapped design opportunities
-
----
-
-### Objectives
-
-Improve the overall user experience across all open-source software
-
----
-
-### Problems
-
-- Hazy direction and vision
-- Multiple reports of poor user experience
-- Profound design debt
-- Near-zero product, research, design, and experimentation cultures
-- Instability and uncertainty
-- Lack of clear intention with design
-
----
-
-### Process
-
-1. Research with experts and customers
-2. Design a vision
-3. Create user flows and design key screens
-4. Define and document processes
-5. Advocate for a culture of problem-solving and innovation
-6. Document design, styles, and components
-7. Test and set up experiments
-8. Own, promote, and upkeep design system
-
----
-
-### Documentation
-
----
-
-### PMM-->
+-->
 
 --- 
 
@@ -444,7 +408,7 @@ Improve the overall user experience across all open-source software
 
 ## Thank you
 
-email@pmcf.xyz
+pedro@pmcf.xyz
 
 <!--
 _class: sep boost dark
