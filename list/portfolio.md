@@ -10,16 +10,16 @@ description: A product designer née portfolio walkthrough
 
 A product designer née<br> portfolio walkthrough
 
+![](../img/portfolio/peace.svg)
+
 <!--
 _class: sep boost dark contour
 _backgroundColor: var(--charcoal)
 _color: var(--paper)
 -->
 
-<img class="badge" src="../img/portfolio/peace.svg">
-
 <style scoped>
-   img.badge {
+   img {
       position: absolute;
       top: 52%;
       left: 82%;
@@ -154,20 +154,20 @@ _class: h-align
 - Front-end code contribution
 - Slayout design system, a collection of ready-to-use, ready-to-scale UI content and components
 
+![](../img/portfolio/satisfaction.svg)
+
 <!--
 _class: v-spaced dark
 _backgroundColor: var(--charcoal)
 -->
 
-<img class="badge" src="../img/portfolio/satisfaction.svg">
-
 <style scoped>
-   img.badge {
+   img {
       display: block;
       position: absolute;
       top: 2em;
       right: 2em;
-      width: 10em;
+      width: 14em;
       height: auto;
       background: none;
       transform: rotate(10deg);
@@ -302,14 +302,14 @@ Idea about binding user’s expectations with TUI Group’s services offerings.
 
 Lisbon Tech Hub’s experimentation laboratories
 
+![](../img/portfolio/holie.gif)
+
 <!--
 _class: v-spaced
 -->
 
-<video src="../img/portfolio/holie.mp4" autoplay loop></video>
-
 <style scoped>
-   video {
+   img {
       position: absolute;
       display: block;
       top: 50%;
@@ -337,20 +337,20 @@ _class: v-spaced
 - Cross-regional sharing of processes, documentation and results
 - Mentorship of new designers
 
+![](../img/portfolio/satisfaction.svg)
+
 <!--
 _class: v-spaced dark
 _backgroundColor: var(--charcoal)
 -->
 
-<img class="badge" src="../img/portfolio/satisfaction.svg">
-
 <style scoped>
-   img.badge {
+   img {
       display: block;
       position: absolute;
       top: 2em;
       right: 2em;
-      width: 10em;
+      width: 14em;
       height: auto;
       background: none;
       transform: rotate(10deg);
