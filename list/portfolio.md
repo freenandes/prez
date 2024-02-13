@@ -13,7 +13,7 @@ A product designer née<br> portfolio walkthrough
 ![](../img/portfolio/peace.svg)
 
 <!--
-_class: sep boost dark contour
+_class: sep boost dark
 _backgroundColor: var(--charcoal)
 _color: var(--paper)
 -->
@@ -40,7 +40,7 @@ _color: var(--paper)
 
 ---
 
-## Smartidiom’s Internal Apps
+## Smartidiom Smart Apps
 
 ![bg](../img/portfolio/smartidiom.png)
 
@@ -51,7 +51,7 @@ _class: sep boost
 
 <style scoped>
    section {
-      padding: 1em 6em 0;
+      padding: 1em 8em 0;
    }
 </style>
 
@@ -148,13 +148,13 @@ _class: h-align
 
 ---
 
-### Value
+### Value for Smartidiom
 
 - Branding and graphic materials
 - Research data and insights
 - An open and collaborative design process
 - Front-end code contribution
-- Slayout design system, a collection of ready-to-use, ready-to-scale UI content and components
+- Slayout design system, a collection of documented, ready-to-use, ready-to-scale UI content and components
 
 ![](../img/portfolio/satisfaction.svg)
 
@@ -181,22 +181,36 @@ _backgroundColor: var(--charcoal)
 
 ---
 
-## TUI Lisbon Tech Hub
+## Lisbon Tech Hub
+
+![bg hue-rotate:20deg saturate:1.5](../img/portfolio/pool.jpg)
 
 <!--
-_class: sep boost
+_class: sep boost dark
+_backgroundColor: #6CC5EB
+_color: #D40E14
 -->
+
+<style scoped>
+   section {
+      padding: 0 8em 0;
+   }
+</style>
 
 ---
 
 ## TUI Group
 
-- Traveling and vacations flights, facilities, amenities, and other services
+- Traveling and vacations: flights, facilities, amenities, and other services
 - Cruise ships, airlines, resorts, hotels, touristic experiences, and more
 - About 70k colleagues
 - Customers like couples, families with kids, and more
 
-Imagem de __
+![bg right:50%](../img/portfolio/destinations(2).png)
+
+<!--
+_class: v-spaced
+-->
 
 ---
 
@@ -307,7 +321,7 @@ _class: h-align content-flush-top
 
 **Pitch:** A person submits their traveling preferences to _auto-magically_ generate a complete, ready-to-book, pay-and-be-there travel package in a few minutes.
 
-<video autoplay loop src="../img/portfolio/holie.mp4"></video>
+![](../img/portfolio/holie.gif)
 
 <!-- ![](../img/portfolio/holie.gif) -->
 
@@ -316,7 +330,7 @@ _class: v-spaced
 -->
 
 <style scoped>
-   video {
+   img {
       position: absolute;
       display: block;
       top: 50%;
@@ -336,16 +350,16 @@ _class: v-spaced
 
 ---
 
-### Value
+### Value for TUI Group
 
 - Research data and insights
 - A fun and playful collaborative design process
-- Revamp of 5 declining markets
+- Repurpose and valorization of 5 existing markets
 - 100k web pages for 175 destinations
-- ~4x traffic and revenue
+- ~4x boost in traffic and revenue
 - Tagus design system, ready-to-scale interface designs and guidelines 
 - Cross-regional sharing of processes, documentation and results
-- Mentorship of new designers
+- Mentorship and onboarding of new colleagues
 
 ![](../img/portfolio/satisfaction.svg)
 
@@ -370,7 +384,7 @@ _backgroundColor: var(--charcoal)
    }
 </style>
 
----
+<!-- ---
 
 ## Percona
 
@@ -422,4 +436,37 @@ Improve the overall user experience across all open-source software
 
 ---
 
-### PMM
+### PMM-->
+
+--- 
+
+![](../img/portfolio/improv.svg)
+
+## Thank you
+
+mail@pmcf.xyz
+
+<!--
+_class: sep boost dark
+_backgroundColor: var(--charcoal)
+-->
+
+<style scoped>
+   img {
+      position: absolute;
+      top: 32%;
+      left: 60%;
+      width: 10em;
+      height: auto;
+      transform: translate(-50%, -50%) rotate(-22.5deg);
+      z-index: -1;
+      background: none;
+   }
+   h2 {
+      font-size: calc(var(--s8) * 1.125) !important;
+      margin: 0;
+   } 
+   section > :nth-last-child(2) {
+      margin: 0;
+   }
+</style>
