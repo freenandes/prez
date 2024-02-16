@@ -137,7 +137,7 @@ a:active {
 	color: var(--ink);
 }
 header {
-	top: var(--s5);
+	top: var(--s3);
 }
 footer {
 	bottom: var(--s3);
@@ -150,7 +150,7 @@ section::after {
 	content: attr(data-marpit-pagination) ' of ' attr(data-marpit-pagination-total);
 	text-align: center;
 	right: calc(var(--s8) - 0.625em);
-	bottom: var(--s5);
+	bottom: var(--s3);
 }
 header,
 footer,
