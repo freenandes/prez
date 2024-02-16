@@ -140,7 +140,7 @@ header {
 	top: var(--s5);
 }
 footer {
-	bottom: var(--s5);
+	bottom: var(--s3);
 }
 header,
 footer {
