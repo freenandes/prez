@@ -35,7 +35,7 @@ _class: sep
 
 ---
 
-### Pedro M.C. Fernandes
+### Pedro
 
 - A father and a lover
 - Living in greater Lisbon, Portugal
@@ -141,12 +141,12 @@ Easier to consume docs -> soothe the experience = more users.
 
 ---
 
-### Databases = Hard <br> Software = Hard <br> Design = Hard
+### Databases = Hard<br> Software = Hard<br> Design = Hard
 
 - Databases are technical and complex
 - Expanding the user base means increasing research costs
 - Error 404, Design culture not found
-- Rapid software implementation ≠ <br> Rapid UX implementation
+- Rapid software implementation ≠<br> Rapid UX implementation
 
 ![bg right 68%](../img/docs_design-240123164507.png)
 
@@ -297,7 +297,7 @@ I still think it's a beautifully designed instructions booklet.
 
 ---
 
-With databases, even if you’re an expert, <br> you also need to keep the documentation tab open.
+With databases, even if you’re an expert,<br> you also need to keep the documentation tab open.
 
 ![bg](../img/docs_design-db_dev.png)
 
@@ -364,13 +364,19 @@ We wanted to change that and ask...
 
 ---
 
-We want documentation to reach more <br> **developers interested in open-source databases** <br> for their applications, so that **adoption increases** <br> through **more installations**, **reasonable retention**, <br> and **clear ease of use**.
+We want documentation to reach out more **developers interested in open-source databases** for their applications, so that **adoption increases** through **more installations**, **reasonable retention**, and **clear ease of use**.
 
 ![bg](../img/docs_design-balloon.svg)
 
 <!--
 _class: v-align boost h-align
 -->
+
+<style scoped>
+  section {
+    padding: calc(var(--s8) * 2.125);
+  }
+</style>
 
 <!--
 Focus on developers.
@@ -471,7 +477,7 @@ The result: We only had the absolute minimum to keep documentation alive.
 - New methodologies
 - New tools
 
-![bg right 90%](../img/docs_design-own.png)
+![bg right 90%](../img/docs_design-ownership.png)
 
 <!--
 _class: v-align content-flush-top padding-null-right
@@ -535,7 +541,7 @@ We wanted to ask...
 - More reading contrast (headings Vs running text blocks)
 - On-brand re-styling
 
-![bg](../img/docs_design-accessibility.png)
+![bg](../img/docs_design-accessibility2.png)
 
 <!--
 _class: content-flush-top
@@ -557,7 +563,7 @@ _class: content-flush-top
 - Guidelines and resources to place icons, buttons, dividers and tabs
 - Guidelines to flag key bits of content and decision-making points
 
-![bg](../img/docs_design-cta.png)
+![bg](../img/docs_design-cta2.png)
 
 <!--
 _class: content-flush-top
@@ -582,7 +588,7 @@ We were open to help decide.
   - Feedback Module
   - And more…
 
-![bg right:60%](../img/docs_design-new_components.png)
+![bg right:60%](../img/docs_design-new_components2.png)
 
 <!--
 _class: v-align padding-null-right
@@ -682,7 +688,7 @@ _class: v-align
 - Feels like the same space
 - Feels whole and professional
 
-![bg right 100%](../img/docs_design-sitemap.png)
+![bg right 100%](../img/docs_design-sitemap2.png)
 
 <!--
 _class: v-align padding-null-right content-flush-top
@@ -708,13 +714,44 @@ This would boost the aesthetic-usability effect by making users perceive our doc
 
 ---
 
+### Thank you!
+
+#### Re-thinking product adoption<br> through documentation design
+
+By Pedro MC Fernandes at![perconaLogo](../img/docs_design-percona_logo.svg)
+
+pedro@pmcf.xyz
+freenandes@mastodon.social
+
+![bg](../img/docs_design-cover.svg)
+
+<!--
+_class: v-align h-align
+-->
+
+<style scoped>
+  h3 {
+    margin-bottom: 1.5em;
+  }
+  h4 {
+    margin-bottom: 0.5em;
+  }
+  img[alt="perconaLogo"] {
+    height: 0.75rem;
+    display: inline-block;
+    vertical-align: -4px;
+    margin-left: 4px;
+  }
+</style>
+
+---
+
 ### To do
 
-- Final image
+- Final imagery from docs home
 - Conclusion
-- Closure slide
 
-Extra:
+Extras:
 - Outdated documentation
 - Inconsistent content across products
 - Lack of practical examples
