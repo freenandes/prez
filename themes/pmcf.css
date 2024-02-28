@@ -40,6 +40,7 @@ section {
 	--s3: calc(var(--s2) * 1.5);
 	--s5: calc(var(--s3) * 1.5);
 	--s8: calc(var(--s5) * 1.5);
+	--s13: calc(var(--s8) * 1.5);
 	--readLine: 880px;
 	--paper: #f8f8f6;
 	--charcoal: #23252f;
@@ -55,6 +56,12 @@ section {
 }
 ::backdrop {
 	background-color: black;
+}
+section.padding-null-right {
+	padding-right: 0;
+}
+section.padding-null-left {
+	padding-left: 0;
 }
 
 /* Content */
@@ -267,6 +274,8 @@ section.dark * {
 section.dark a:hover {
 	color: var(--gray);
 }
+section.dark > header,
+section.dark > header > a,
 section.dark > footer,
 section.dark > footer > a {
     color: var(--charcoal);

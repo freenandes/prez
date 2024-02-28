@@ -6,13 +6,6 @@
 
 /* Overrides */
 
-/* section.boost h1,
-section.boost h2,
-section.boost h3 {
-    font-size: var(--s3);
+section.sep {
+    padding: var(--s8) calc(var(--s13) * 2) calc(var(--s5) + var(--s1));
 }
-
-section.sep h1,
-section.sep h2 {
-    font-size: calc(var(--s5) * 1);
-} */
