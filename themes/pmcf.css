@@ -192,6 +192,9 @@ blockquote > *:last-child::after {
 blockquote > *:first-child {
 	text-indent: -0.65625em;
 }
+img {
+	background: transparent;
+}
 
 /* Code snippets */
 
