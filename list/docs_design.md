@@ -21,7 +21,7 @@ _class: sep
 <style scoped>
   .percona {
     display: inline-block;
-    vertical-align: -3px;
+    vertical-align: -4px;
     margin-left: 8px;
   }
 </style>
