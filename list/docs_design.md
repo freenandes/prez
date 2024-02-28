@@ -1,12 +1,18 @@
 ---
 marp: true
 lang: en
-theme: perc
+theme: pmcf
 author: Pedro Fernandes
 title: Re-thinking product adoption through documentation design
 description: Improving software adoption by redesigning documentation. A focus on making user guides more intuitive and accessible for 17 diverse open-source products. Tackling users’ frustration and improving technical instructions’ readability by leveraging user experience design practices.
 class: v-align
 ---
+
+<style>
+  section.sep {
+    padding: var(--s8) calc(var(--s13) * 2) calc(var(--s5) + var(--s1));
+  }
+</style>
 
 # Re-thinking product adoption through documentation design
 
@@ -23,7 +29,7 @@ _class: sep
     height: 0.75rem;
     display: inline-block;
     vertical-align: -4px;
-    margin-left: 8px;
+    margin-left: 4px;
   }
 </style>
 
