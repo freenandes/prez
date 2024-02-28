@@ -541,7 +541,7 @@ We wanted to ask...
 - More reading contrast (headings Vs running text blocks)
 - On-brand re-styling
 
-![bg](../img/docs_design-accessibility2.png)
+![bg](../img/docs_design-accessibility.png)
 
 <!--
 _class: content-flush-top
@@ -563,7 +563,7 @@ _class: content-flush-top
 - Guidelines and resources to place icons, buttons, dividers and tabs
 - Guidelines to flag key bits of content and decision-making points
 
-![bg](../img/docs_design-cta2.png)
+![bg](../img/docs_design-cta.png)
 
 <!--
 _class: content-flush-top
@@ -688,7 +688,7 @@ _class: v-align
 - Feels like the same space
 - Feels whole and professional
 
-![bg right 100%](../img/docs_design-sitemap2.png)
+![bg right 100%](../img/docs_design-sitemap.png)
 
 <!--
 _class: v-align padding-null-right content-flush-top
