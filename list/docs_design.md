@@ -734,7 +734,7 @@ _class: v-align h-align
     margin-bottom: 1.5em;
   }
   h4 {
-    margin-bottom: 0.5em;
+    margin-bottom: 0.375em;
   }
   img[alt="perconaLogo"] {
     height: 0.75rem;
@@ -757,5 +757,5 @@ Extras:
 - Lack of practical examples
 
 <!--
-_class:
+_class: v-align
 -->
