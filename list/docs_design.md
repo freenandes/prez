@@ -672,6 +672,12 @@ Solution:
 
 ---
 
+<video width="992" height="558">
+  <source src="../img/docs_design/final.mp4" type="video/mp4">
+</video>
+
+---
+
 ### Overview
 
 - Defined a strategy for the documentation
