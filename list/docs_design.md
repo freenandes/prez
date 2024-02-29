@@ -674,6 +674,15 @@ Solution:
 
 <video autoplay controls mute loop src="../img/docs_design/final.mp4"></video>
 
+<style scoped>
+  video {
+    width: 100rem;
+    height: 20rem;
+    box-shadow: 0 0.75em 1em 0 rgba(0,0,0,0.2);
+    border-radius: 2px;
+  }
+</style>
+
 ---
 
 ### Overview
