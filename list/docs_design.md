@@ -458,8 +458,9 @@ _class: v-align h-align
 
 <style scoped>
   img[src*="old"] {
-    box-shadow: 0 0.75em 1em 0 rgba(0,0,0,0.3) !important;
-    border-radius: 1px !important;
+    width: 30rem;
+    box-shadow: 0 0.75em 1em 0 rgba(0,0,0,0.2);
+    border-radius: 2px;
   }
   [href*="squidfunk"] {
     display: inline-block;
