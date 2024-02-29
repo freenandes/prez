@@ -455,7 +455,7 @@ In practice:
 
 ---
 
-<!--![](../img/docs-design/old.gif).gif) -->
+<!-- ![](../img/docs-design/old.gif) -->
 <video width="858" height="483" autoplay controls mute loop src="../img/docs-design/old.mp4"></video>
 
 [![Built with Material for MkDocs](https://img.shields.io/badge/Material_for_MkDocs-23252f?style=for-the-badge&logo=MaterialForMkDocs&logoColor=white)](https://squidfunk.github.io/mkdocs-material/)
@@ -483,15 +483,6 @@ _class: v-align h-align
     display: block;
     transform: scale(1.125) translateX(0.25rem);
   }
-</style>
-
-
-
-<style scoped>
-  section {
-    padding: var(--s8);
-  }
-  
 </style>
 
 <!--
@@ -692,17 +683,27 @@ Solution:
 
 ---
 
+<!-- ![](../img/docs-design/home.gif) -->
 <video width="1120" height="630" autoplay controls mute loop src="../img/docs-design/home.mp4"></video>
+
+<!--
+_class: v-align h-align
+-->
 
 <style scoped>
   section {
     padding: var(--s8);
   }
+  img[src*="home"],
   video {
     display: block;
     box-shadow: 0 0.1875rem 0.25rem 0 rgba(0,0,0,0.1), 0 0.375rem 0.5rem 0 rgba(0,0,0,0.2), 0 0.75rem 1rem 0 rgba(0,0,0,0.3);
     border-radius: 0.125rem;
-    outline: 1px solid rgba(0,0,0,0.1);
+    outline: 1px solid rgba(0,0,0,0.05);
+    margin: auto;
+  }
+  img[src*="home"] {
+    width: 24rem;
   }
 </style>
 
