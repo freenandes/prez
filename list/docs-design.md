@@ -455,8 +455,8 @@ In practice:
 
 ---
 
-<!-- ![](../img/docs-design/docs_design-old.gif) -->
-<video width="1120" height="630" autoplay controls mute loop src="../img/docs-design/old.mp4"></video>
+![](../img/docs-design/docs_design-old.gif)
+<video width="858" height="483" autoplay controls mute loop src="../img/docs-design/old.mp4"></video>
 
 [![Built with Material for MkDocs](https://img.shields.io/badge/Material_for_MkDocs-23252f?style=for-the-badge&logo=MaterialForMkDocs&logoColor=white)](https://squidfunk.github.io/mkdocs-material/)
 
@@ -474,6 +474,7 @@ _class: v-align h-align
     box-shadow: 0 0.1875rem 0.25rem 0 rgba(0,0,0,0.2), 0 0.375rem 0.5rem 0 rgba(0,0,0,0.1);
     border-radius: 0.125rem;
     outline: 1px solid rgba(0,0,0,0.05);
+    margin: auto;
   }
   img[src*="old"] {
     width: 24rem;
