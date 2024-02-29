@@ -471,8 +471,8 @@ _class: v-align h-align
     display: block;
     width: 24rem;
     box-shadow: 0 0.1875rem 0.25rem 0 rgba(0,0,0,0.2), 0 0.375rem 0.5rem 0 rgba(0,0,0,0.1);
-    border-radius: 0.125rem;
-    outline: 1px solid rgba(0,0,0,0.05)
+    border-radius: 0.0625rem;
+    outline: 1px solid rgba(0,0,0,0.05);
   }
   [href*="squidfunk"] {
     display: block;
@@ -686,9 +686,9 @@ Solution:
   }
   video {
     display: block;
-    box-shadow: 0 0.75rem 1rem 0 rgba(0,0,0,0.2);
-    border-radius: 0.125rem;
-    outline: 1px solid rgba(0,0,0,0.1)
+    box-shadow: 0 0.1875rem 0.25rem 0 rgba(0,0,0,0.1), 0 0.375rem 0.5rem 0 rgba(0,0,0,0.2), 0 0.75rem 1rem 0 rgba(0,0,0,0.3);
+    border-radius: 0.0625rem;
+    outline: 1px solid rgba(0,0,0,0.1);
   }
 </style>
 
