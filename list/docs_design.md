@@ -654,7 +654,7 @@ That is why we also created some visual cues in the quickstart guides (numbered 
 
 ---
 
-We crafted journeys and woven them together, so we could guide people by-their-hand, through key touchpoints, into discovering what they needed.
+We crafted journeys and woven them together so we could guide people by their hand, through key touchpoints, into discovering what they needed.
 
 <!--
 _class: 
@@ -672,7 +672,7 @@ The objective was to signpost the most likely journey to the user. While always 
 
 ---
 
-### Unifying the experience
+### Unification
 
 Imagine using the documentation.
 How does it look like? How might we improve it?
@@ -684,15 +684,15 @@ _class: v-align
 
 ---
 
-#### Changed
+#### Changed things
 
-- Moved the Documentation Home Page
+- Documentation Home Page placement
 - Main website → Documentation websites
 - Kept link from Main Website Home Page
 
 #### Gained
 
-- Documentation Home Page feels similar to the product documentation
+- Documentation Home feels similar to the product documentation
 - Navigation patterns are the similar
 - Feels like the same space
 - Feels whole and professional
