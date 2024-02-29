@@ -240,7 +240,6 @@ _class: boost v-align h-align
   [data-marpit-advanced-background-container] > figure {
     margin: 2.25rem 3.375rem !important;
     box-shadow: 0 0.1875rem 0.25rem 0 rgba(0,0,0,0.3) !important;
-    border-radius: 1px !important;
     outline: 1px solid rgba(0,0,0,0.05) !important;
   }
 </style>
@@ -471,7 +470,7 @@ _class: v-align h-align
   img[src*="old"] {
     display: block;
     width: 24rem;
-    box-shadow: 0 0.375rem 0.5rem 0 rgba(0,0,0,0.2);
+    box-shadow: 0 0.1875rem 0.25rem 0 rgba(0,0,0,0.2), 0 0.375rem 0.5rem 0 rgba(0,0,0,0.1);
     border-radius: 0.125rem;
     outline: 1px solid rgba(0,0,0,0.05)
   }
