@@ -239,7 +239,9 @@ _class: boost v-align h-align
 <style scoped>
   [data-marpit-advanced-background-container] > figure {
     margin: 2.25rem 3.375rem !important;
-    box-shadow: 0 0.375em 0.5em 0 rgba(0,0,0,0.3) !important;
+    box-shadow: 0 0.1875rem 0.25rem 0 rgba(0,0,0,0.3) !important;
+    border-radius: 1px !important;
+    outline: 1px solid rgba(0,0,0,0.05) !important;
   }
 </style>
 
