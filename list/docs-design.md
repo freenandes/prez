@@ -455,7 +455,8 @@ In practice:
 
 ---
 
-![](../img/docs-design/docs_design-old.gif)
+<!-- ![](../img/docs-design/docs_design-old.gif) -->
+<video width="1120" height="630" autoplay controls mute loop src="../img/docs-design/old.mp4"></video>
 
 [![Built with Material for MkDocs](https://img.shields.io/badge/Material_for_MkDocs-23252f?style=for-the-badge&logo=MaterialForMkDocs&logoColor=white)](https://squidfunk.github.io/mkdocs-material/)
 
@@ -467,17 +468,29 @@ _class: v-align h-align
   section {
     padding: var(--s8);
   }
-  img[src*="old"] {
+  img[src*="old"],
+  video {
     display: block;
-    width: 24rem;
     box-shadow: 0 0.1875rem 0.25rem 0 rgba(0,0,0,0.2), 0 0.375rem 0.5rem 0 rgba(0,0,0,0.1);
-    border-radius: 0.0625rem;
+    border-radius: 0.125rem;
     outline: 1px solid rgba(0,0,0,0.05);
+  }
+  img[src*="old"] {
+    width: 24rem;
   }
   [href*="squidfunk"] {
     display: block;
     transform: scale(1.125) translateX(0.25rem);
   }
+</style>
+
+
+
+<style scoped>
+  section {
+    padding: var(--s8);
+  }
+  
 </style>
 
 <!--
