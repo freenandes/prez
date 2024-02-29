@@ -70,11 +70,10 @@ Who's Pedro?
 Where is this happening?
 
 - Born out DB solutions
-- That wouldn't break the bank
-- For small, growing and large companies
+  - That wouldn't break the bank
+  - For small, growing and large companies
+  - Later, open-source software
 - Freedom to choose
-- Services came 1st
-- Softwares later
 - To support services, namely...
 -->
 
