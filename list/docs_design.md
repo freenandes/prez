@@ -203,15 +203,7 @@ Ikea Billy bookshelf with Oxberg doors.
 
 Anyone had a chance of assembling one of these?
 
-Was it hard?
-
-Did you had to go back because you were doing it the wrong way?
-
-I did. I nailed the back, faced the wrong direction. Wood grain, unpainted from the inside.
-
-Had to get some more of those micro nails...
-
-So, imagine assembling this...
+I nailed the back, faced the wrong direction. Wood grain, unpainted from the inside. Had to get some more of those micro nails...
 -->
 
 ---
@@ -227,15 +219,11 @@ _class: boost v-align h-align
 <!--
 ...Where each part goes.
 
-It would be a lot of work, from my lazy handyman POV.
-
-I also made all the doors one sided.
-
-When i was about to install them, i couldn't.
-
-They were all either left or right doors, don't remember.
-
-I had to unscrew everything, leaving the door a little big ugly, chipped from the inside.
+- Doors one sided
+- All either left or right
+- Had to unscrew everything
+- Door ugly
+  - Chipped inside
 -->
 
 ---
@@ -256,9 +244,10 @@ _class: boost v-align h-align
 </style>
 
 <!--
-So, even with well designed documentation, like IKEA's, errors can still happen.
-
-I still think it's a beautifully designed instructions booklet.
+- Well designed documentation
+- Like IKEA's instructions booklet
+- Errors can still happen
+- Improves the output
 -->
 
 ---
@@ -272,7 +261,7 @@ _class: boost h-align
 -->
 
 <!--
-With database development -> complexity = high.
+Database development -> complexity = high.
 
 1. Installation
 2. Development, management and monitoring
@@ -299,12 +288,10 @@ _class: sep
 -->
 
 <!--
-Share:
-
 - What we did
 - What we learned
 - What we think
-- Open the discussion
+- Open discussion
 - Spark ideas
 -->
 
@@ -321,16 +308,16 @@ _class: v-align
 -->
 
 <!--
-We didn't have a clear strategy.
-
-Documentation was not an instrument to achieve goals.
+Problem:
+- No clear strategy
+- Not an instrument to achieve goals.
 
 We wanted to change that and ask...
 -->
 
 ---
 
-We want documentation to reach out to more **developers interested in open-source databases** for their applications so that **adoption increases** through **more installations**, **proper retention**, and **evident ease of use**.
+We want documentation to reach out to more [**developers interested in open-source databases**]() for their applications so that adoption increases through [**more installations**](), [**proper retention**](), and [**evident ease of use**]().
 
 ![bg](../img/docs_design-balloon.svg)
 
@@ -345,17 +332,17 @@ _class: v-align boost h-align
 </style>
 
 <!--
-Focus on developers.
+- Focus on developers
+- Not
+  - Database administrators
+  - Reliability engineer
+  - They continue to be our focus
+- But
+  - Developers need alternatives
+  - Independence
+  - Often lack diverse teams
 
-Not database administrators nor reliability engineers.
-
-They continue to be our focus, but we wanted to reach this user base.
-
-We understand that more a more developers need these alternatives and some independence.
--->
-
----
-
+Extra:
 - Identify people and audit accessibility
 - Set objectives
 - Define the action scope
@@ -365,18 +352,112 @@ We understand that more a more developers need these alternatives and some indep
 - Pick health metrics
 - Set feedback streams
 - Plan maintenance
+-->
 
-[![Built with Material for MkDocs](https://img.shields.io/badge/Material_for_MkDocs-23252f?style=for-the-badge&logo=MaterialForMkDocs&logoColor=white)](https://squidfunk.github.io/mkdocs-material/)
+---
 
-![bg right](../img/docs_design-old.gif)
+### Co-ownership
+
+Who could help?
+Where’s the knowledge?
+Who could share responsibilities?
+
+<!--
+_class: v-align
+-->
+
+<!--
+Problem:
+- Documentation just existed
+- Bare minimum effort
+- Had to exist cuz we software house
+
+This is not enough. We asked...
+-->
+
+---
+
+#### Kept
+
+- Creation of content
+- Management
+- Data analysis
+
+#### Added
+
+- Speed
+- Visibility
+- Openness
+- User’s POV
+- Horizontal communication
+- New methods
+- New tools
+
+![bg right 90%](../img/docs_design-ownership.png)
 
 <!--
 _class: v-align content-flush-top padding-null-right
 -->
 
+<!--
+Added:
+- Speed + visibility + openness
+  - More people seeing
+  - Recognizing importance
+  - Incite contribution
+- We shared all outputs
+- Brought user representation
+  - Technical Services
+  - Account managers
+  - Customer success
+  - More empirical knowledge
+- PMs helped
+  - Communicate horizontally
+  - Draw attention
+  - Move things
+  - Garner resources
+  - Product POV
+- UX team
+  - New ways of doing
+  - Propose solutions
+  - Explored new tools
+    - Posthog
+-->
+
+---
+
+### Clarity
+
+Is the content accessible to people?
+Does it provide intuitive access to their needs?
+Are there untapped opportunities?
+
+<!--
+_class: v-align
+-->
+
+<!--
+We wanted to ask...
+
+In practice:
+- Audited websites
+- Analysis from UX POV
+- Found mistakes
+- Found opportunities
+-->
+
+---
+
+![](../img/docs_design-old.gif)
+
+[![Built with Material for MkDocs](https://img.shields.io/badge/Material_for_MkDocs-23252f?style=for-the-badge&logo=MaterialForMkDocs&logoColor=white)](https://squidfunk.github.io/mkdocs-material/)
+
+<!--
+_class: v-align h-align
+-->
+
 <style scoped>
-  [data-marpit-advanced-background-container] > figure {
-    margin: 5.5rem 1rem !important;
+  img[src*="old"] {
     box-shadow: 0 0.75em 1em 0 rgba(0,0,0,0.3) !important;
     border-radius: 1px !important;
   }
@@ -404,97 +485,6 @@ We inherited the documentation in MkDocs with the Material theme.
 We're pretty happy with it and it's very flexible.
 
 There are tons of alternatives out there.
--->
-
----
-
-### Co-ownership
-
-Who could help? Where’s the knowledge?
-Who could share responsibilities?
-
-<!--
-_class: v-align
--->
-
-<!--
-Another problem: The documentation just existed for the sake of knowing documentation had to exist.
-
-This is not enough - if - We want to improve.
-
-The result: We only had the absolute minimum to keep documentation alive.
--->
-
----
-
-#### Kept
-
-- Creation of content
-- Management
-- Data analysis
-
-#### Added
-
-- Speed
-- Visibility
-- Openness
-- The user’s POV
-- Horizontal communication
-- New methodologies
-- New tools
-
-![bg right 90%](../img/docs_design-ownership.png)
-
-<!--
-_class: v-align content-flush-top padding-null-right
--->
-
-<!--
-Only: Technical Writers + Marketing
-
-We kept: Read
-
-We added:
-- Speed + visibility + openness
-  - More people seeing
-  - Recognizing the importance
-  - Wanting to contribute
-  - We shared all outputs with the team
-- Brought user representation
-  - Technical Services
-  - Account managers
-  - Customer success
-  - And more opinions and empirical knowledge
-- PMs helped
-  - Draw the attention
-  - Move things
-  - Get resources
-  - Product POV
-- UX team
-  - New ways of doing
-  - Explored new tools
-    - Posthog
-  - Proposed solutions
--->
-
----
-
-### Clarity
-
-Is the content accessible to people?
-Does it provide intuitive access to their needs?
-Are there untapped opportunities?
-
-<!--
-_class: v-align
--->
-
-<!--
-We audited the websites implementation and designs from our UX POV.
-
-We immediately found opportunities to improve.
-
-We wanted to ask...
 -->
 
 ---
