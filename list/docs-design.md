@@ -692,7 +692,7 @@ _class:
 
 <style scoped>
   section {
-    padding: var(--s8);
+    padding: 0;
   }
   img[src*="home"],
   video {
