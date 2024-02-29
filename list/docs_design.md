@@ -145,7 +145,7 @@ Easier to consume docs -> soothe the experience = more users.
 
 - Databases are technical and complex
 - Expanding the user base means increasing research costs
-- Error 404, Design culture not found
+- Error 404: Design culture not found
 - Rapid software implementation ≠<br> Rapid UX implementation
 
 ![bg right 68%](../img/docs_design-240123164507.png)
@@ -153,6 +153,12 @@ Easier to consume docs -> soothe the experience = more users.
 <!--
 _class: v-align
 -->
+
+<style scoped>
+  h3 {
+    font-size: calc(var(--s3) * 0.95)
+  }
+</style>
 
 <!--
 - Databases = technical + complex
@@ -274,7 +280,7 @@ I had to unscrew everything, leaving the door a little big ugly, chipped from th
 
 ---
 
-With documentation, we can promote adoption and good use of products.
+With documentation, we can promote the adoption and good use of products.
 
 ![bg right](../img/docs_design-billy_manual.png)
 
@@ -297,7 +303,7 @@ I still think it's a beautifully designed instructions booklet.
 
 ---
 
-With databases, even if you’re an expert,<br> you also need to keep the documentation tab open.
+With databases, even if you’re an expert,<br> you must keep the documentation tab open.
 
 ![bg](../img/docs_design-db_dev.png)
 
@@ -347,8 +353,8 @@ Share:
 ### A strategic asset
 
 Who’s reading our documentation?
-How can it help them, and us achieve the goals?
-How do we know is it helping?
+How can it help them and us achieve our goals?
+How do we know if it is helping?
 
 <!--
 _class: v-align
