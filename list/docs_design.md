@@ -618,6 +618,7 @@ _class: v-align
 
 #### Invested in
 
+- Researching the needs
 - Experiments with navigation
 - Guidelines for navigation streamlining
 - Quickstart guide creation
@@ -630,6 +631,8 @@ _class: v-align padding-null-right
 -->
 
 <!--
+We talked with people and experts to understand their needs.
+
 We did experiments a bunch of testing with navigation.
 
 For example, this top navigation (horizontal) + side navigation (vertical) was disapproved.
@@ -710,6 +713,32 @@ We wanted the homepage to feel part of the documentation and not part of the mai
 This would help make it feel whole.
 
 This would boost the aesthetic-usability effect by making users perceive our documentation as a solid and effective one. This is our hypothesis.
+-->
+
+---
+
+### Overview of what we did
+
+- Definition of a strategy
+- Set up co-ownership
+- Provide clarity
+- Help people achieve their goals
+
+<!--
+_class: v-align content-flush-top
+-->
+
+<!--
+- Definition of a strategy
+  - Generate consensus
+- Set up co-ownership
+  - Share responsibility
+  - Garner expertise
+- Provide clarity
+  - Readable
+  - Accessible
+- Help people achieve their goals
+  - Understand their needs through research
 -->
 
 ---
