@@ -733,7 +733,7 @@ By Pedro MC Fernandes at![perconaLogo](../img/docs_design/docs_design-percona_lo
 pedro@pmcf.xyz
 freenandes@mastodon.social
 
-Presentation made with [Marp](https://github.com/marp-team/marpit) and [Lexend](https://github.com/googlefonts/lexend)
+Rendered with [Marp](https://github.com/marp-team/marpit) and [Lexend](https://github.com/googlefonts/lexend)
 
 ![bg](../img/docs_design/docs_design-cover.svg)
 
@@ -743,10 +743,10 @@ _class: v-align h-align
 
 <style scoped>
   h3 {
-    margin-bottom: 1.125em;
+    margin-bottom: 1.25em;
   }
   h5 {
-    margin-bottom: 0.25em;
+    margin-bottom: 0.375em;
   }
   img[alt="perconaLogo"] {
     height: 1.125em;
