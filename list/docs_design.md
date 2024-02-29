@@ -468,13 +468,13 @@ _class: v-align h-align
   }
   img[src*="old"] {
     display: block;
-    width: 40rem;
-    box-shadow: 0 0.75rem 1rem 0 rgba(0,0,0,0.2);
+    width: 24rem;
+    box-shadow: 0 0.375rem 0.5rem 0 rgba(0,0,0,0.2);
     border-radius: 0.125rem;
     outline: 1px solid rgba(0,0,0,0.05)
   }
   [href*="squidfunk"] {
-    display: inline-block;
+    display: block;
     transform: scale(1.125) translateX(0.25rem);
   }
 </style>
