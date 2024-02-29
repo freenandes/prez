@@ -533,7 +533,7 @@ _class: content-flush-top
 - New custom components
 - Use of more out-of-the-box components
 
-![bg right:60% 100.1%%](../img/docs-design/components.png)
+![bg right:60% 100.1%](../img/docs-design/components.png)
 
 <!--
 _class: v-align padding-null-right
@@ -575,7 +575,7 @@ _class: v-align padding-null-right
 - Forming quickstart guides
 - Visual prominence for what matters the most
 
-![bg right:60% 100.1%](../img/docs-design/quickstart.png)
+![bg right:60% 100.2%](../img/docs-design/quickstart.png)
 
 <!--
 _class: v-align padding-null-right
@@ -641,7 +641,7 @@ _class: v-align padding-null-right
 
 ---
 
-![bg](../img/docs-design/sitemap.png)
+![bg](../img/docs-design/site.png)
 
 <!--
 _class: h-align
