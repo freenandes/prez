@@ -756,7 +756,7 @@ _class: v-align content-flush-top
   - Experimented
   - Created guidelines
   - Made the obvious journeys clearer
-- Unified the experience
+- Unified documentation websites’ experience
 -->
 
 ---
