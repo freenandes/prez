@@ -465,8 +465,8 @@ _class: v-align h-align
 -->
 
 <style scoped>
-  section {
-    padding: var(--s8);
+  p {
+    max-width: unset !important;
   }
   img[src*="old"],
   video {
@@ -474,10 +474,9 @@ _class: v-align h-align
     box-shadow: 0 0.1875rem 0.25rem 0 rgba(0,0,0,0.2), 0 0.375rem 0.5rem 0 rgba(0,0,0,0.1);
     border-radius: 0.125rem;
     outline: 1px solid rgba(0,0,0,0.05);
-    margin: auto;
   }
   img[src*="old"] {
-    width: 24rem;
+    width: 858px;
   }
   [href*="squidfunk"] {
     display: block;
@@ -694,23 +693,15 @@ _class: v-align h-align
   p {
     max-width: unset !important;
   }
-  section {
-    padding: var(--s5);
-  }
   img[src*="home"],
   video {
-    display: inline-block;
+    display: block;
     box-shadow: 0 0.1875rem 0.25rem 0 rgba(0,0,0,0.1), 0 0.375rem 0.5rem 0 rgba(0,0,0,0.2), 0 0.75rem 1rem 0 rgba(0,0,0,0.3);
     border-radius: 0.125rem;
     outline: 1px solid rgba(0,0,0,0.05);
-    margin: 0;
   }
   img[src*="home"] {
-    width: 24rem;
-  }
-  video {
     width: 1120px;
-    height: auto;
   }
 </style>
 
