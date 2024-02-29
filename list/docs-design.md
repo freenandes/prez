@@ -16,9 +16,9 @@ class: v-align
 
 # Re-thinking product adoption through documentation design
 
-By Pedro MC Fernandes at ![perconaLogo](../img/docs-design/docs_design-percona_logo.svg)
+By Pedro MC Fernandes at ![perconaLogo](../img/docs-design/percona_logo.svg)
 
-![bg](../img/docs-design/docs_design-cover.svg)
+![bg](../img/docs-design/cover.svg)
 
 <!--
 _class: sep
@@ -44,7 +44,7 @@ _class: sep
 - Product designer at Percona
 - Generalist contributor in FOSS
 
-![bg right](../img/docs-design/docs_design-240122105356.png)
+![bg right](../img/docs-design/240122105356.png)
 
 <!--
 Who's Pedro?
@@ -52,7 +52,7 @@ Who's Pedro?
 
 ---
 
-![Percona logo](../img/docs-design/docs_design-percona_logo.svg)
+![Percona logo](../img/docs-design/percona_logo.svg)
 
 - Freedom to choose ethos
 - Provider of open-source database services, support, and software
@@ -64,7 +64,7 @@ Who's Pedro?
 - **PMM** database monitoring tools
 - Cloud-native database **Operators**
 
-![bg left 100%](../img/docs-design/docs_design-240123084240.png)
+![bg left 100%](../img/docs-design/240123084240.png)
 
 <!--
 Where is this happening?
@@ -83,7 +83,7 @@ Where is this happening?
 
 Why would we?
 
-![bg](../img/docs-design/docs_design-cover.svg)
+![bg](../img/docs-design/cover.svg)
 
 <!--
 _class: sep
@@ -105,7 +105,7 @@ _class: sep
 - Optimization of Support
 - Don’t break the bank
 
-![bg right](../img/docs-design/docs_design-240216094956.png)
+![bg right](../img/docs-design/240216094956.png)
 
 <!--
 Here are some of our motivations:
@@ -143,7 +143,7 @@ Error 404: Design culture not found
 
 Rapid software ≠ Rapid UX
 
-![bg right 68%](../img/docs-design/docs_design-240123164507.png)
+![bg right 68%](../img/docs-design/240123164507.png)
 
 <!--
 _class: v-align
@@ -182,7 +182,7 @@ _class: v-align
 
 While we create something better in-product, what else could we do **now**?
 
-![bg](../img/docs-design/docs_design-balloon.svg)
+![bg](../img/docs-design/balloon.svg)
 
 <!--
 class: sep boost
@@ -192,7 +192,7 @@ class: sep boost
 
 Imagine assembling this…
 
-![bg right:50% 200% hue-rotate:180deg contrast:1.2 brightness:1.2](../img/docs-design/docs_design-billy.png)
+![bg right:50% 200% hue-rotate:180deg contrast:1.2 brightness:1.2](../img/docs-design/billy.png)
 
 <!--
 _class: boost v-align h-align
@@ -210,7 +210,7 @@ I nailed the back, faced the wrong direction. Wood grain, unpainted from the ins
 
 By only guessing
 
-![bg right saturate:0.7 hue-rotate:20deg](../img/docs-design/docs_design-240223155705.png)
+![bg right saturate:0.7 hue-rotate:20deg](../img/docs-design/240223155705.png)
 
 <!--
 _class: boost v-align h-align
@@ -230,7 +230,7 @@ _class: boost v-align h-align
 
 With documentation, we can promote the adoption and good use of products.
 
-![bg right](../img/docs-design/docs_design-billy_manual.png)
+![bg right](../img/docs-design/billy_manual.png)
 
 <!--
 _class: boost v-align h-align
@@ -282,7 +282,7 @@ Database development -> complexity = high.
 
 ## Documentation design rationale
 
-![bg](../img/docs-design/docs_design-cover.svg)
+![bg](../img/docs-design/cover.svg)
 
 <!--
 _class: sep
@@ -322,7 +322,7 @@ We wanted to change that and ask...
 
 We want documentation to reach out to more **developers** interested in open-source databases for their applications so that adoption increases through more **installations**, proper **retention**, and evident **ease of use**.
 
-![bg](../img/docs-design/docs_design-balloon.svg)
+![bg](../img/docs-design/balloon.svg)
 
 <!--
 _class: v-align boost h-align
@@ -437,7 +437,7 @@ Is the content accessible to people?
 Does it provide intuitive access to their needs?
 Are there untapped opportunities?
 
-![bg right:40%](../img/docs-design/snap-01.svg)
+![bg right:40%](../img/docs-design/snap-02.svg)
 
 <!--
 _class: v-align padding-null-right
@@ -761,14 +761,14 @@ _class: v-align content-flush-top
 
 ##### Re-thinking product adoption through documentation design
 
-By Pedro MC Fernandes at![perconaLogo](../img/docs-design/docs_design-percona_logo.svg)
+By Pedro MC Fernandes at![perconaLogo](../img/docs-design/percona_logo.svg)
 
 pedro@pmcf.xyz
 freenandes@mastodon.social
 
 Rendered with [Marp](https://github.com/marp-team/marpit) and [Lexend](https://github.com/googlefonts/lexend)
 
-![bg](../img/docs-design/docs_design-cover.svg)
+![bg](../img/docs-design/cover.svg)
 
 <!--
 _class: v-align h-align
