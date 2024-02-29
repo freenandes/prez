@@ -501,7 +501,7 @@ _class: v-align h-align
 - Increased reading contrast (headings Vs. running text blocks)
 - On-brand re-styling
 
-![bg](../img/docs-design/accessibility.png)
+![bg](../img/docs-design/access.png)
 
 <!--
 _class: content-flush-top
