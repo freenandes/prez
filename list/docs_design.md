@@ -350,7 +350,7 @@ Share:
 
 ---
 
-### A strategic asset
+### Strategic asset
 
 Who’s reading our documentation?
 How can it help them and us achieve our goals?
@@ -370,7 +370,7 @@ We wanted to change that and ask...
 
 ---
 
-We want documentation to reach out more **developers interested in open-source databases** for their applications, so that **adoption increases** through **more installations**, **reasonable retention**, and **clear ease of use**.
+We want documentation to reach out to more **developers interested in open-source databases** for their applications so that **adoption increases** through **more installations**, **proper retention**, and **evident ease of use**.
 
 ![bg](../img/docs_design-balloon.svg)
 
