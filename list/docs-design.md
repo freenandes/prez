@@ -26,9 +26,9 @@ _class: sep
 
 <style scoped>
   img[alt="perconaLogo"] {
-    height: 0.75rem;
+    height: 1.1875em;
     display: inline-block;
-    vertical-align: -4.5px;
+    vertical-align: -0.1875em;
   }
 </style>
 
@@ -771,7 +771,7 @@ _class: v-align h-align
   img[alt="perconaLogo"] {
     height: 1.125em;
     display: inline-block;
-    vertical-align: -0.125em;
+    vertical-align: -0.1875em;
     margin-left: 0.25em;
   }
 </style>
