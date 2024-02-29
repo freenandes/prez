@@ -678,11 +678,11 @@ Solution:
 
 ---
 
-<video autoplay controls mute loop src="../img/docs-design/final.mp4"></video>
+<video width="1120" height="630" autoplay controls mute loop src="../img/docs-design/final.mp4"></video>
 
 <style scoped>
   section {
-    padding: calc(var(--s8) + 0.025rem);
+    padding: var(--s8);
   }
   video {
     display: block;
