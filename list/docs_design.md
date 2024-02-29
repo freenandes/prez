@@ -672,15 +672,24 @@ This would boost the aesthetic-usability effect by making users perceive our doc
 - Improved the user experience
 - Unified the documentation websites
 
+<br><br>
+
 #### To do
 
-- Review any outdated content
+- Check if everything is OK with users
+- Review outdated content
 - Weed out inconsistencies
 - Add practical examples/recipes
 
 <!--
-_class: v-align
+_class: v-align content-flush-top
 -->
+
+<style scoped>
+  section {
+    padding: var(--s8) var(--s13);
+  }
+</style>
 
 <!--
 - Defined a strategy for the documentation
