@@ -180,7 +180,7 @@ _class: v-align
 
 ---
 
-While we create something better in-product, what else could we do **now**?
+While we create something better in-product, what else could we do [**now**]()?
 
 ![bg](../img/docs_design-balloon.svg)
 
@@ -297,7 +297,7 @@ _class: sep
 
 ---
 
-### Strategic asset
+### Define a strategy
 
 Who’s reading our documentation?
 How can it help them and us achieve our goals?
@@ -356,7 +356,7 @@ Extra:
 
 ---
 
-### Co-ownership
+### Establish co-ownership
 
 Who could help?
 Where’s the knowledge?
@@ -426,7 +426,7 @@ Added:
 
 ---
 
-### Clarity
+### Boost clarity
 
 Is the content accessible to people?
 Does it provide intuitive access to their needs?
@@ -519,11 +519,7 @@ _class: content-flush-top
 #### Extended
 
 - New custom components
-  - Tiny Admonitions: when you want to be a little more subtle
-  - Framed Content: when you wish to disrupt and announce
-- Use of out-of-the-box components 
-  - Feedback Module
-  - And more
+- Use of more out-of-the-box components
 
 ![bg right:60%](../img/docs_design-new_components2.png)
 
@@ -532,18 +528,22 @@ _class: v-align padding-null-right
 -->
 
 <!--
-This MkDocs theme is great out of the box, but we wanted more.
-
-Created extensions that made shaped the content to our liking and in a motivation to help users.
-
-Also digged deep to find components that were not in use but would help immensely, like the feedback module.
+MkDocs — great out of the box, but we wanted more:
+- New components
+  - Tiny Admonitions
+    - When you want more subtle
+  - Framed Content
+    - When you wish to disrupt
+    - Announce
+- Use of more
+  - Feedback module
 -->
 
 ---
 
-### User experience
+### Improve the user experience
 
-What can we do for them?
+What can we do for people?
 How might we anticipate their needs?
 How can we make them succeed?
 
@@ -555,11 +555,11 @@ _class: v-align
 
 #### Invested in
 
-- Understanding the people’s needs
-- Experimenting with the navigation
-- Creating guidelines for navigation streamlining
+- Understanding people’s needs
+- Experimenting
+- Creating guidelines
 - Forming quickstart guides
-- Make visually prominent guides
+- Visual prominence for what matters the most
 
 ![bg right:60%](../img/docs_design-quickstart.png)
 
@@ -568,24 +568,34 @@ _class: v-align padding-null-right
 -->
 
 <!--
-We talked with people and experts to understand their needs.
-
-We did experiments a bunch of testing with navigation.
-
-For example, this top navigation (horizontal) + side navigation (vertical) was disapproved.
-
-We found that users felt confused navigating so many sections through 2 distinct patterns. They wouldn't know where is what.
-
-So we decided to generate guidelines that would focus on making the sidebar navigation the best navigation possible.
-
-We also helped create quickstart guides, guiving pointers on how to guide users into installing in a quick and clear way, so they could get to enjoy the product fast.
-
-That is why we also created some visual cues in the quickstart guides (numbered bullet points).
+- Research
+  - Talked with
+  - Talked with experts
+  - Garnered the needs
+- Experimentation
+  - Navigation
+  - Top navigation added unnecessary confusion
+    - In our case
+    - When overlaid with side navigation
+    - 2 different patterns don't work
+- To improve side navigation
+  - Guidelines
+  - Make navigation slimmer
+  - Streamlined
+  - Clear
+  - Uncluttered
+- Form narratives
+  - Guides
+  - Quickstart experience
+  - Guide to obvious paths
+  - Lead to value of product through docs
+- To reinforce storytelling
+  - Highlighting steps
 -->
 
 ---
 
-We crafted journeys and woven them together so we could guide people by their hand, through key touchpoints, into discovering what they needed.
+We crafted journeys and [**woven them together**]() so we could guide people into [**discovering the value**]() of our software.
 
 <!--
 _class: 
@@ -603,10 +613,10 @@ The objective was to signpost the most likely journey to the user. While always 
 
 ---
 
-### Unification
+### Unify the experience
 
 Imagine using the documentation.
-How does it look like? How might we improve it?
+How does it look? How might we improve it?
 Does it feel whole and credible?
 
 <!--
