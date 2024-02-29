@@ -666,22 +666,20 @@ This would boost the aesthetic-usability effect by making users perceive our doc
 
 ### Overview
 
-#### Done
-
 - Defined a strategy for the documentation
 - Established the co-ownership
-- Made it clear and accessible
-- Shaped a better user experience
-- Unified the website
+- Made it clearer and accessible
+- Improved the user experience
+- Unified the documentation websites
 
 #### To do
 
-- Outdated documentation
-- Inconsistent content across products
-- Lack of practical examples
+- Review any outdated content
+- Weed out inconsistencies
+- Add practical examples/recipes
 
 <!--
-_class: v-align content-flush-top
+_class: v-align
 -->
 
 <!--
