@@ -676,11 +676,13 @@ Solution:
 
 <style scoped>
   section {
-    padding: var(--s13);
+    padding: var(--s8);
   }
   video {
+    display: block;
     box-shadow: 0 0.75rem 1rem 0 rgba(0,0,0,0.2);
-    border-radius: 2px;
+    border-radius: 0.125rem;
+    outline: 1px solid rgba(0,0,0,0.1)
   }
 </style>
 
