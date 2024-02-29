@@ -456,8 +456,8 @@ In practice:
 ---
 
 <!-- ![](../img/docs-design/old.png) -->
-![](../img/docs-design/old.gif)
-<!-- <video width="858" height="483" autoplay controls mute loop src="../img/docs-design/old.mp4"></video> -->
+<!-- ![](../img/docs-design/old.gif) -->
+<video width="858" height="483" autoplay controls mute loop src="../img/docs-design/old.mp4"></video>
 
 [![Built with Material for MkDocs](https://img.shields.io/badge/Material_for_MkDocs-23252f?style=for-the-badge&logo=MaterialForMkDocs&logoColor=white)](https://squidfunk.github.io/mkdocs-material/)
 
@@ -685,8 +685,8 @@ Solution:
 ---
 
 <!-- ![](../img/docs-design/home.png) -->
-![](../img/docs-design/home.gif)
-<!-- <video width="1120" height="630" autoplay controls mute loop src="../img/docs-design/home.mp4"></video> -->
+<!-- ![](../img/docs-design/home.gif) -->
+<video width="1120" height="630" autoplay controls mute loop src="../img/docs-design/home.mp4"></video>
 
 <!--
 _class: v-align h-align
@@ -723,7 +723,7 @@ _class: v-align h-align
 
 ### To do
 
-- How users are experiencing changes
+- How users are experiencing
 - Review outdated content
 - Weed out inconsistencies
 - Add practical examples/recipes
@@ -741,22 +741,42 @@ _class: v-align content-flush-top
 </style>
 
 <!--
+Overview:
 - Defined a strategy for the documentation
   - Generate consensus
-  - Understand the usefulness
+  - Value for the goals
 - Established the co-ownership
   - Share responsibility
   - Garner expertise
 - Made it clear and accessible
   - Readable
-  - More visible
-  - Tweaked where needed to meet needs
-- Shaped a better user experience
+  - Visible
+  - Tweaked to meet needs
+  - Extended to better serve people
+- Improved the user experience
   - Researched
   - Experimented
   - Created guidelines
-  - Made the obvious journeys clearer
+  - Highlighted the main journeys
+  - Cross-linked more
 - Unified documentation websites’ experience
+  - Made it feel whole
+  - Ease navigation
+  - Professional looking
+
+To do:
+- How users are experiencing
+  - Journeys effective?
+  - Do we have more views?
+- Review outdated content
+  - A lot of bloat
+  - Needs thorough review
+- Weed out inconsistencies
+  - All instances closer to each other in structure
+- Add practical examples/recipes
+  - In our studies
+  - People benefit from seeing examples
+  - Create them when we have more time
 -->
 
 ---
