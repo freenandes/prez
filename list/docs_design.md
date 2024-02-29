@@ -670,16 +670,18 @@ This would boost the aesthetic-usability effect by making users perceive our doc
 - Established the co-ownership
 - Made it clearer and accessible
 - Improved the user experience
-- Unified the documentation websites
+- Unified documentation websites’ experience
 
 <br><br>
 
-#### To do
+### To do
 
-- Check if everything is OK with users
+- How users are experiencing changes
 - Review outdated content
 - Weed out inconsistencies
 - Add practical examples/recipes
+
+![bg](../img/docs_design-conclusion.svg)
 
 <!--
 _class: v-align content-flush-top
@@ -714,12 +716,14 @@ _class: v-align content-flush-top
 
 ### Thank you!
 
-#### Re-thinking product adoption<br> through documentation design
+##### Re-thinking product adoption through documentation design
 
 By Pedro MC Fernandes at![perconaLogo](../img/docs_design-percona_logo.svg)
 
 pedro@pmcf.xyz
 freenandes@mastodon.social
+
+Made with [Marp](https://github.com/marp-team/marpit), [Lexend](https://github.com/googlefonts/lexend) and some [Flexoki](https://github.com/kepano/flexoki)
 
 ![bg](../img/docs_design-cover.svg)
 
@@ -729,15 +733,15 @@ _class: v-align h-align
 
 <style scoped>
   h3 {
-    margin-bottom: 1.5em;
+    margin-bottom: 1em;
   }
-  h4 {
-    margin-bottom: 0.375em;
+  h5 {
+    margin-bottom: 0.25em;
   }
   img[alt="perconaLogo"] {
-    height: 0.75rem;
+    height: 1.125em;
     display: inline-block;
-    vertical-align: -4.5px;
-    margin-left: 5px;
+    vertical-align: -0.125em;
+    margin-left: 0.25em;
   }
 </style>
