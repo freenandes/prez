@@ -501,7 +501,7 @@ _class: v-align h-align
 - Increased reading contrast (headings Vs. running text blocks)
 - On-brand re-styling
 
-![bg](../img/docs-design/access.png)
+![bg 100.1%%](../img/docs-design/access.png)
 
 <!--
 _class: content-flush-top
@@ -514,7 +514,7 @@ _class: content-flush-top
 - Guidelines and resources to place icons, buttons, dividers, and tabs
 - Guidelines to flag critical bits of content and decision-making points
 
-![bg](../img/docs-design/cta.png)
+![bg 100.1%%](../img/docs-design/call.png)
 
 <!--
 _class: content-flush-top
@@ -533,7 +533,7 @@ _class: content-flush-top
 - New custom components
 - Use of more out-of-the-box components
 
-![bg right:60%](../img/docs-design/comps.png)
+![bg right:60% 100.1%%](../img/docs-design/components.png)
 
 <!--
 _class: v-align padding-null-right
@@ -575,7 +575,7 @@ _class: v-align padding-null-right
 - Forming quickstart guides
 - Visual prominence for what matters the most
 
-![bg right:60%](../img/docs-design/docs_design-quickstart.png)
+![bg right:60% 100.1%](../img/docs-design/quickstart.png)
 
 <!--
 _class: v-align padding-null-right
@@ -615,7 +615,7 @@ We crafted journeys and woven them together so we could guide people into **disc
 _class: 
 -->
 
-![bg](../img/docs-design/docs_design-storytelling.png)
+![bg 100.1%](../img/docs-design/storytelling.png)
 
 <!--
 We used all of these visual cues we have created.
