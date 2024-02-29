@@ -146,7 +146,7 @@ Rapid software implementation ≠<br> Rapid UX implementation
 ![bg right 68%](../img/docs_design-240123164507.png)
 
 <!--
-_class: v-align content-flush-top
+_class: v-align
 -->
 
 <style scoped>
@@ -186,17 +186,6 @@ While we create something better in-product, what else could we do **now**?
 
 <!--
 class: sep boost
--->
-
-<!--
-Thinking...
-
-- Growing software takes time
-- Capacity is limited
-- A lot of UX debt
-- Time is (always) short
-
-What else?
 -->
 
 ---
