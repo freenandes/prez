@@ -90,8 +90,6 @@ _class: sep
 -->
 
 <!--
-- In this space
-- With these services + open source products
 - Why would we want to shape docs?
 - Why improve them?
 - Why would we care about docs 1st and software growth later?
@@ -112,44 +110,43 @@ _class: sep
 <!--
 Here are some of our motivations:
 
-- We want databases for everyone
+- Databases for everyone
   - Any technical background
-  - Spark their creativity
-  - Help them learn how to do databases
+  - Spark creativity
+  - Help learn databases
 - Promote independence
   - Lower the entry barrier
-  - Get users happy
-  - Reduce effort and time spent with databases
+  - Reduce effort and time
 - More and better contributions
-  - Increase the discussion
+  - Increase discussion
   - Multiply solutions
-- Optimization of the Support
-  - Support focused on bigger problem
-  - Urgent problems
+  - For anyone
+- Optimization of Support
+  - Focus on bigger problem
   - Societal blockers
 - Don’t break the bank
   - Anyone can get in
+  - Regardless of price
   - Grow at their pace
   - Scale when ready
 
 Documentation can help.
-
-Easier to consume docs -> soothe the experience = more users.
 -->
 
 ---
 
 ### Databases = Hard<br> Software = Hard<br> Design = Hard
 
-- Databases are technical and complex
-- Expanding the user base means increasing research costs
-- Error 404: Design culture not found
-- Rapid software implementation ≠<br> Rapid UX implementation
+Technical, complex, costly
+
+Error 404: Design culture not found
+
+Rapid software implementation ≠<br> Rapid UX implementation
 
 ![bg right 68%](../img/docs_design-240123164507.png)
 
 <!--
-_class: v-align
+_class: v-align content-flush-top
 -->
 
 <style scoped>
@@ -159,50 +156,26 @@ _class: v-align
 </style>
 
 <!--
-- Databases = technical + complex
+- Technical, complex, costly
   - Intimidating
   - Specific terminology
   - Abstract structures
-  - Complexity <- user centricity
-  - Documentation can
-    - Demystify
-    - Reach more people
-- Increase user base = + research costs
-  - More people to know
-  - More talk
-  - More opinions
-  - More synthesis capacity
-  - More time spent
-  - Research is
-    - Crucial for software dev
-    - Crucial for user-centricity
-    - Crucial for adoption
+  - Lack user centricity
+  - Increase user base = more research costs
 - Error 404, Design culture not found
   - Percona
     - Wasn't born user-centric
     - Focused on technical solutions
     - Working/not working things
-  - A UX team is (again) costly
-    - UX outputs does not directly correlate to biz numbers
-    - Needs holistic evaluation
-    - Needs deep integration
-      - Team
-      - Processes
-    - + Time spent
 - Rapid software implementation ≠ Rapid UX implementation
   - If they're not synchronized
-  - UX design
-    - More iterative by nature
-    - Invests in accuracy
-    - Shoves in more value
-
-With all of this...
-
-Capacity is limited and growth is a gradual process, not immediate.
-
-- Time is short
-- UX teams can't get everywhere at the beginning
-- A lot of groundwork is due
+  - Needs deep integration
+    - Team
+    - Processes
+  - More time spent
+- Documentation
+  - Demystify
+  - Reach more people
 -->
 
 ---
