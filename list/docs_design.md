@@ -397,7 +397,7 @@ This is not enough. We asked...
 - New methods
 - New tools
 
-![bg right 100%](../img/docs_design/own.png)
+![bg right 100%](../img/docs_design/ownership.png)
 
 <!--
 _class: v-align content-flush-top padding-null-right
@@ -724,7 +724,7 @@ _class: v-align content-flush-top
 
 ---
 
-### Thank you!
+## Thank you!
 
 ##### Re-thinking product adoption through documentation design
 
@@ -746,7 +746,7 @@ _class: v-align h-align
     margin-bottom: 1.25em;
   }
   h5 {
-    margin-bottom: 0.375em;
+    margin-bottom: 0.3125em;
   }
   img[alt="perconaLogo"] {
     height: 1.125em;
