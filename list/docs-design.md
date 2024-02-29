@@ -501,7 +501,7 @@ _class: v-align h-align
 - Increased reading contrast (headings Vs. running text blocks)
 - On-brand re-styling
 
-![bg 100.1%%](../img/docs-design/access.png)
+![bg 100.1%](../img/docs-design/access.png)
 
 <!--
 _class: content-flush-top
@@ -514,7 +514,7 @@ _class: content-flush-top
 - Guidelines and resources to place icons, buttons, dividers, and tabs
 - Guidelines to flag critical bits of content and decision-making points
 
-![bg 100.1%%](../img/docs-design/call.png)
+![bg 100.1%](../img/docs-design/call.png)
 
 <!--
 _class: content-flush-top
