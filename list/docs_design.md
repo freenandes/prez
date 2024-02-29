@@ -624,11 +624,11 @@ _class: v-align
 
 #### Invested in
 
-- Understanding people’s needs 
-- Experimenting with navigation
-- Guidelines for navigation streamlining
-- Quickstart guide creation
-- Visually prominent guiding steps
+- Understanding the people’s needs
+- Experimenting with the navigation
+- Creating guidelines for navigation streamlining
+- Forming quickstart guides
+- Make visually prominent guides
 
 ![bg right:60%](../img/docs_design-quickstart.png)
 
