@@ -16,9 +16,9 @@ class: v-align
 
 # Re-thinking product adoption through documentation design
 
-By Pedro MC Fernandes at ![perconaLogo](../img/docs_design-percona_logo.svg)
+By Pedro MC Fernandes at ![perconaLogo](../img/docs_design/docs_design-percona_logo.svg)
 
-![bg](../img/docs_design-cover.svg)
+![bg](../img/docs_design/docs_design-cover.svg)
 
 <!--
 _class: sep
@@ -44,7 +44,7 @@ _class: sep
 - Product designer at Percona
 - Generalist contributor in FOSS
 
-![bg right](../img/docs_design-240122105356.png)
+![bg right](../img/docs_design/docs_design-240122105356.png)
 
 <!--
 Who's Pedro?
@@ -52,7 +52,7 @@ Who's Pedro?
 
 ---
 
-![Percona logo](../img/docs_design-percona_logo.svg)
+![Percona logo](../img/docs_design/docs_design-percona_logo.svg)
 
 - Freedom to choose ethos
 - Provider of open-source database services, support, and software
@@ -64,7 +64,7 @@ Who's Pedro?
 - **PMM** database monitoring tools
 - Cloud-native database **Operators**
 
-![bg left 100%](../img/docs_design-240123084240.png)
+![bg left 100%](../img/docs_design/docs_design-240123084240.png)
 
 <!--
 Where is this happening?
@@ -83,7 +83,7 @@ Where is this happening?
 
 Why would we?
 
-![bg](../img/docs_design-cover.svg)
+![bg](../img/docs_design/docs_design-cover.svg)
 
 <!--
 _class: sep
@@ -105,7 +105,7 @@ _class: sep
 - Optimization of Support
 - Don’t break the bank
 
-![bg right](../img/docs_design-240216094956.png)
+![bg right](../img/docs_design/docs_design-240216094956.png)
 
 <!--
 Here are some of our motivations:
@@ -143,7 +143,7 @@ Error 404: Design culture not found
 
 Rapid software ≠ Rapid UX
 
-![bg right 68%](../img/docs_design-240123164507.png)
+![bg right 68%](../img/docs_design/docs_design-240123164507.png)
 
 <!--
 _class: v-align
@@ -182,7 +182,7 @@ _class: v-align
 
 While we create something better in-product, what else could we do [**now**]()?
 
-![bg](../img/docs_design-balloon.svg)
+![bg](../img/docs_design/docs_design-balloon.svg)
 
 <!--
 class: sep boost
@@ -192,7 +192,7 @@ class: sep boost
 
 Imagine assembling this…
 
-![bg right:50% 200% hue-rotate:180deg contrast:1.2 brightness:1.2](../img/docs_design-billy.png)
+![bg right:50% 200% hue-rotate:180deg contrast:1.2 brightness:1.2](../img/docs_design/docs_design-billy.png)
 
 <!--
 _class: boost v-align h-align
@@ -210,7 +210,7 @@ I nailed the back, faced the wrong direction. Wood grain, unpainted from the ins
 
 By only guessing
 
-![bg right saturate:0.7 hue-rotate:20deg](../img/docs_design-240223155705.png)
+![bg right saturate:0.7 hue-rotate:20deg](../img/docs_design/docs_design-240223155705.png)
 
 <!--
 _class: boost v-align h-align
@@ -230,7 +230,7 @@ _class: boost v-align h-align
 
 With documentation, we can promote the adoption and good use of products.
 
-![bg right](../img/docs_design-billy_manual.png)
+![bg right](../img/docs_design/docs_design-billy_manual.png)
 
 <!--
 _class: boost v-align h-align
@@ -254,7 +254,7 @@ _class: boost v-align h-align
 
 With databases, even if you’re an expert,<br> you must keep the documentation tab open.
 
-![bg](../img/docs_design-db_dev.png)
+![bg](../img/docs_design/docs_design-db_dev.png)
 
 <!--
 _class: boost h-align
@@ -281,7 +281,7 @@ Database development -> complexity = high.
 
 ## Documentation design rationale
 
-![bg](../img/docs_design-cover.svg)
+![bg](../img/docs_design/docs_design-cover.svg)
 
 <!--
 _class: sep
@@ -319,7 +319,7 @@ We wanted to change that and ask...
 
 We want documentation to reach out to more [**developers interested in open-source databases**]() for their applications so that adoption increases through [**more installations**](), [**proper retention**](), and [**evident ease of use**]().
 
-![bg](../img/docs_design-balloon.svg)
+![bg](../img/docs_design/docs_design-balloon.svg)
 
 <!--
 _class: v-align boost h-align
@@ -393,7 +393,7 @@ This is not enough. We asked...
 - New methods
 - New tools
 
-![bg right 90%](../img/docs_design-ownership.png)
+![bg right 90%](../img/docs_design/docs_design-ownership.png)
 
 <!--
 _class: v-align content-flush-top padding-null-right
@@ -448,7 +448,7 @@ In practice:
 
 ---
 
-![](../img/docs_design-old.gif)
+![](../img/docs_design/docs_design-old.gif)
 
 [![Built with Material for MkDocs](https://img.shields.io/badge/Material_for_MkDocs-23252f?style=for-the-badge&logo=MaterialForMkDocs&logoColor=white)](https://squidfunk.github.io/mkdocs-material/)
 
@@ -489,7 +489,7 @@ _class: v-align h-align
 - Increased reading contrast (headings Vs. running text blocks)
 - On-brand re-styling
 
-![bg](../img/docs_design-accessibility.png)
+![bg](../img/docs_design/docs_design-accessibility.png)
 
 <!--
 _class: content-flush-top
@@ -502,7 +502,7 @@ _class: content-flush-top
 - Guidelines and resources to place icons, buttons, dividers, and tabs
 - Guidelines to flag critical bits of content and decision-making points
 
-![bg](../img/docs_design-cta.png)
+![bg](../img/docs_design/docs_design-cta.png)
 
 <!--
 _class: content-flush-top
@@ -521,7 +521,7 @@ _class: content-flush-top
 - New custom components
 - Use of more out-of-the-box components
 
-![bg right:60%](../img/docs_design-new_components2.png)
+![bg right:60%](../img/docs_design/docs_design-new_components2.png)
 
 <!--
 _class: v-align padding-null-right
@@ -561,7 +561,7 @@ _class: v-align
 - Forming quickstart guides
 - Visual prominence for what matters the most
 
-![bg right:60%](../img/docs_design-quickstart.png)
+![bg right:60%](../img/docs_design/docs_design-quickstart.png)
 
 <!--
 _class: v-align padding-null-right
@@ -601,7 +601,7 @@ We crafted journeys and [**woven them together**]() so we could guide people int
 _class: 
 -->
 
-![bg](../img/docs_design-storytelling.png)
+![bg](../img/docs_design/docs_design-storytelling.png)
 
 <!--
 We used all of these visual cues we have created.
@@ -638,7 +638,7 @@ _class: v-align
 - It feels like the same space
 - It’s whole and professional
 
-![bg right 100%](../img/docs_design-sitemap.png)
+![bg right 100%](../img/docs_design/docs_design-sitemap.png)
 
 <!--
 _class: v-align padding-null-right content-flush-top
@@ -681,7 +681,7 @@ This would boost the aesthetic-usability effect by making users perceive our doc
 - Weed out inconsistencies
 - Add practical examples/recipes
 
-![bg](../img/docs_design-conclusion.svg)
+![bg](../img/docs_design/docs_design-conclusion.svg)
 
 <!--
 _class: v-align content-flush-top
@@ -718,14 +718,14 @@ _class: v-align content-flush-top
 
 ##### Re-thinking product adoption through documentation design
 
-By Pedro MC Fernandes at![perconaLogo](../img/docs_design-percona_logo.svg)
+By Pedro MC Fernandes at![perconaLogo](../img/docs_design/docs_design-percona_logo.svg)
 
 pedro@pmcf.xyz
 freenandes@mastodon.social
 
 Made with [Marp](https://github.com/marp-team/marpit), [Lexend](https://github.com/googlefonts/lexend) and some [Flexoki](https://github.com/kepano/flexoki)
 
-![bg](../img/docs_design-cover.svg)
+![bg](../img/docs_design/docs_design-cover.svg)
 
 <!--
 _class: v-align h-align
