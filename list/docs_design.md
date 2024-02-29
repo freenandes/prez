@@ -678,7 +678,9 @@ Solution:
 
 ---
 
-<video autoplay controls mute loop src="../img/docs_design/final.mp4"></video>
+<div class="marpit">
+  <video autoplay controls mute loop src="../img/docs_design/final.mp4"></video>
+</div>
 
 <style scoped>
   section {
