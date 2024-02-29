@@ -678,7 +678,7 @@ Solution:
 
 ---
 
-<video width="1120" height="630" autoplay controls mute loop src="../img/docs-design/final.mp4"></video>
+<video width="1120" height="630" autoplay controls mute loop src="../img/docs-design/home.mp4"></video>
 
 <style scoped>
   section {
