@@ -687,7 +687,7 @@ _class: v-align content-flush-top
 
 <style scoped>
   section {
-    padding: var(--s8) var(--s13);
+    padding: var(--s8) calc(var(--s13) + var(--s1));
   }
 </style>
 
