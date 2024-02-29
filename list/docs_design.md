@@ -788,7 +788,7 @@ _class: v-align h-align
   img[alt="perconaLogo"] {
     height: 0.75rem;
     display: inline-block;
-    vertical-align: -4px;
-    margin-left: 4px;
+    vertical-align: -4.5px;
+    margin-left: 5px;
   }
 </style>
