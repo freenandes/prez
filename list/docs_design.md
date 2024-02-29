@@ -141,7 +141,7 @@ Technical, complex, costly
 
 Error 404: Design culture not found
 
-Rapid software implementation ≠<br> Rapid UX implementation
+Rapid software ≠ Rapid UX
 
 ![bg right 68%](../img/docs_design-240123164507.png)
 
@@ -167,7 +167,7 @@ _class: v-align
     - Wasn't born user-centric
     - Focused on technical solutions
     - Working/not working things
-- Rapid software implementation ≠ Rapid UX implementation
+- Rapid software ≠ Rapid UX
   - If they're not synchronized
   - Needs deep integration
     - Team
