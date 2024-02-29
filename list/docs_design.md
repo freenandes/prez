@@ -469,23 +469,14 @@ _class: v-align h-align
 </style>
 
 <!--
-Strategy: You can go as detailed or as lightweight as you wish.
-
-We believe the important is an form of agreement of what we are doing.
-
-Sometimes a simpler but mature, sucinct sentence is sufficient to help motivate.
-
-List of topics: This is also a load of work, but shows a bit more of the strategic spectrum.
-
-You could go as far as needed.
-
-On the right hand side, a preview of our old documentation.
-
-We inherited the documentation in MkDocs with the Material theme.
-
-We're pretty happy with it and it's very flexible.
-
-There are tons of alternatives out there.
+- Example of what we had
+- We had 17x websites like this
+- Built in MkDocs + Material theme
+  - Flexible
+  - Practical
+  - Beautiful theme
+  - Open-source
+  - A lot of alternatives exist
 -->
 
 ---
@@ -504,15 +495,6 @@ There are tons of alternatives out there.
 _class: content-flush-top
 -->
 
-<!--
-- Reading: Geometric -> Grotesque
-- Kept Geometric for headings
-- Boosted contrast on headings
-- Added more spacing
-- Made hyperlinks for accessible
-  - Barely perceivable on the left
--->
-
 ---
 
 #### Added
@@ -527,11 +509,9 @@ _class: content-flush-top
 -->
 
 <!--
-We were not using the full potential of MkDocs.
-
-We made sure to provide guidance on how to apply more elements, because the maintainers (tech writers) were not as well versed on visual arrangement.
-
-We were open to help decide.
+- Not using the full potential
+- Maintainers: not versed on visual arrangement
+- UX team open to help
 -->
 
 ---
