@@ -254,7 +254,7 @@ _class: boost v-align h-align
 
 With databases, even if you’re an expert,<br> you must keep the documentation tab open.
 
-![bg](../img/docs_design/docs_design-db_dev.png)
+![bg](../img/docs_design/db_dev.png)
 
 <!--
 _class: boost h-align
@@ -397,7 +397,7 @@ This is not enough. We asked...
 - New methods
 - New tools
 
-![bg right 90%](../img/docs_design/docs_design-ownership.png)
+![bg right 100%](../img/docs_design/own.png)
 
 <!--
 _class: v-align content-flush-top padding-null-right
@@ -495,7 +495,7 @@ _class: v-align h-align
 - Increased reading contrast (headings Vs. running text blocks)
 - On-brand re-styling
 
-![bg](../img/docs_design/docs_design-accessibility.png)
+![bg](../img/docs_design/accessibility.png)
 
 <!--
 _class: content-flush-top
@@ -508,7 +508,7 @@ _class: content-flush-top
 - Guidelines and resources to place icons, buttons, dividers, and tabs
 - Guidelines to flag critical bits of content and decision-making points
 
-![bg](../img/docs_design/docs_design-cta.png)
+![bg](../img/docs_design/cta.png)
 
 <!--
 _class: content-flush-top
@@ -527,7 +527,7 @@ _class: content-flush-top
 - New custom components
 - Use of more out-of-the-box components
 
-![bg right:60%](../img/docs_design/docs_design-new_components2.png)
+![bg right:60%](../img/docs_design/comps.png)
 
 <!--
 _class: v-align padding-null-right
@@ -733,7 +733,7 @@ By Pedro MC Fernandes at![perconaLogo](../img/docs_design/docs_design-percona_lo
 pedro@pmcf.xyz
 freenandes@mastodon.social
 
-Made with [Marp](https://github.com/marp-team/marpit), [Lexend](https://github.com/googlefonts/lexend) and some [Flexoki](https://github.com/kepano/flexoki)
+Presentation made with [Marp](https://github.com/marp-team/marpit) and [Lexend](https://github.com/googlefonts/lexend)
 
 ![bg](../img/docs_design/docs_design-cover.svg)
 
@@ -743,7 +743,7 @@ _class: v-align h-align
 
 <style scoped>
   h3 {
-    margin-bottom: 1em;
+    margin-bottom: 1.125em;
   }
   h5 {
     margin-bottom: 0.25em;
