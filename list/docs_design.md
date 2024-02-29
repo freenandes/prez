@@ -684,7 +684,7 @@ Solution:
 
 <style scoped>
   section {
-    padding: var(--s8);
+    padding: calc(var(--s8) + 0.025rem);
   }
   video {
     display: block;
