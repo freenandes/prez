@@ -455,7 +455,7 @@ In practice:
 
 ---
 
-![](../img/docs-design/old.png) 
+![](../img/docs-design/old.png)
 <!-- ![](../img/docs-design/old.gif) -->
 <!-- <video width="858" height="483" autoplay controls mute loop src="../img/docs-design/old.mp4"></video> -->
 
