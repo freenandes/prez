@@ -687,22 +687,27 @@ Solution:
 <video width="1120" height="630" autoplay controls mute loop src="../img/docs-design/home.mp4"></video>
 
 <!--
-_class:
+_class: v-align h-align
 -->
 
 <style scoped>
   section {
-    padding: 0;
+    padding: var(--s5);
   }
   img[src*="home"],
   video {
-    display: block;
+    display: inline-block;
     box-shadow: 0 0.1875rem 0.25rem 0 rgba(0,0,0,0.1), 0 0.375rem 0.5rem 0 rgba(0,0,0,0.2), 0 0.75rem 1rem 0 rgba(0,0,0,0.3);
     border-radius: 0.125rem;
     outline: 1px solid rgba(0,0,0,0.05);
+    margin: 0;
   }
   img[src*="home"] {
     width: 24rem;
+  }
+  video {
+    width: 1120px;
+    height: auto;
   }
 </style>
 
