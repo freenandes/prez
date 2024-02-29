@@ -723,28 +723,35 @@ This would boost the aesthetic-usability effect by making users perceive our doc
 
 ---
 
-### Overview of what we did
+### Overview
 
-- Definition of a strategy
-- Set up co-ownership
-- Provide clarity
-- Help people achieve their goals
+- Defined a strategy for the documentation
+- Established the co-ownership
+- Made it clear and accessible
+- Shaped a better user experience
+- Unified the experience
 
 <!--
 _class: v-align content-flush-top
 -->
 
 <!--
-- Definition of a strategy
+- Defined a strategy for the documentation
   - Generate consensus
-- Set up co-ownership
+  - Understand the usefulness
+- Established the co-ownership
   - Share responsibility
   - Garner expertise
-- Provide clarity
+- Made it clear and accessible
   - Readable
-  - Accessible
-- Help people achieve their goals
-  - Understand their needs through research
+  - More visible
+  - Tweaked where needed to meet needs
+- Shaped a better user experience
+  - Researched
+  - Experimented
+  - Created guidelines
+  - Made the obvious journeys clearer
+- Unified the experience
 -->
 
 ---
