@@ -295,7 +295,7 @@ _class: sep
 - Spark ideas
 -->
 
----
+--- 
 
 ### Define a strategy
 
@@ -303,8 +303,10 @@ Who’s reading our documentation?
 How can it help them and us achieve our goals?
 How do we know if it is helping?
 
+![bg right:40%](../img/docs_design/snap-03.svg)
+
 <!--
-_class: v-align
+_class: v-align padding-null-right
 -->
 
 <!--
@@ -362,8 +364,10 @@ Who could help?
 Where’s the knowledge?
 Who could share responsibilities?
 
+![bg right:40%](../img/docs_design/snap-01.svg)
+
 <!--
-_class: v-align
+_class: v-align padding-null-right
 -->
 
 <!--
@@ -432,8 +436,10 @@ Is the content accessible to people?
 Does it provide intuitive access to their needs?
 Are there untapped opportunities?
 
+![bg right:40%](../img/docs_design/snap-01.svg)
+
 <!--
-_class: v-align
+_class: v-align padding-null-right
 -->
 
 <!--
@@ -547,8 +553,10 @@ What can we do for people?
 How might we anticipate their needs?
 How can we make them succeed?
 
+![bg right:40%](../img/docs_design/snap-04.svg)
+
 <!--
-_class: v-align
+_class: v-align padding-null-right
 -->
 
 ---
@@ -619,8 +627,10 @@ Imagine using the documentation.
 How does it look? How might we improve it?
 Does it feel whole and credible?
 
+![bg right:40%](../img/docs_design/snap-05.svg)
+
 <!--
-_class: v-align
+_class: v-align padding-null-right
 -->
 
 ---
