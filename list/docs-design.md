@@ -455,7 +455,7 @@ In practice:
 
 ---
 
-![](../img/docs-design/docs_design-old.gif)
+<!--![](../img/docs-design/old.gif).gif) -->
 <video width="858" height="483" autoplay controls mute loop src="../img/docs-design/old.mp4"></video>
 
 [![Built with Material for MkDocs](https://img.shields.io/badge/Material_for_MkDocs-23252f?style=for-the-badge&logo=MaterialForMkDocs&logoColor=white)](https://squidfunk.github.io/mkdocs-material/)
