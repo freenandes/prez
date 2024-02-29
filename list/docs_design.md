@@ -672,7 +672,7 @@ Solution:
 
 ---
 
-<video width="992" height="558">
+<video width="992" height="558" autoplay muted loop>
   <source src="../img/docs_design/final.mp4" type="video/mp4">
 </video>
 
