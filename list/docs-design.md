@@ -609,7 +609,7 @@ _class: v-align padding-null-right
 
 ---
 
-We crafted journeys and [**woven them together**]() so we could guide people into [**discovering the value**]() of our software.
+We crafted journeys and woven them together so we could guide people into **discovering the value** of our software.
 
 <!--
 _class: 
