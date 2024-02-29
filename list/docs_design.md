@@ -56,14 +56,14 @@ Who's Pedro?
 ![Percona logo](../img/docs_design-percona_logo.svg)
 
 - Freedom to choose ethos
-- Provider of open-source database software, support and services
+- Provider of open-source database software, support, and services
 
 #### Known for
 
 - Open-source, drop-in replacements for **PostgreSQL/MySQL/MongoDB**
 - **Percona Toolkit** command-line tools
 - **PMM** database monitoring tools
-- Cloud native database **Operators**
+- Cloud-native database **Operators**
 
 ![bg left 100%](../img/docs_design-240123084240.png)
 
@@ -618,8 +618,8 @@ _class: v-align
 
 #### Invested in
 
-- Researching the needs
-- Experiments with navigation
+- Understanding people's needs
+- Experimenting with navigation
 - Guidelines for navigation streamlining
 - Quickstart guide creation
 - Visually prominent guiding steps
