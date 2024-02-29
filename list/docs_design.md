@@ -725,11 +725,19 @@ This would boost the aesthetic-usability effect by making users perceive our doc
 
 ### Overview
 
+#### Done
+
 - Defined a strategy for the documentation
 - Established the co-ownership
 - Made it clear and accessible
 - Shaped a better user experience
-- Unified the experience
+- Unified the website
+
+#### To do
+
+- Outdated documentation
+- Inconsistent content across products
+- Lack of practical examples
 
 <!--
 _class: v-align content-flush-top
@@ -785,19 +793,3 @@ _class: v-align h-align
     margin-left: 4px;
   }
 </style>
-
----
-
-### To do
-
-- Final imagery from docs home
-- Conclusion
-
-Extras:
-- Outdated documentation
-- Inconsistent content across products
-- Lack of practical examples
-
-<!--
-_class: v-align
--->
