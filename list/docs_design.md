@@ -40,7 +40,7 @@ _class: sep
 - A father and a lover
 - Living in greater Lisbon, Portugal
 - Hands-on creator inspired by arts
-- Experience with 0–1 projects, eCommerce and operations
+- Experience with 0–1 projects + eCommerce + operations
 - All-round designer
 - Product designer at Percona
 - Generalist contributor in FOSS
@@ -56,7 +56,7 @@ Who's Pedro?
 ![Percona logo](../img/docs_design-percona_logo.svg)
 
 - Freedom to choose ethos
-- Provider of open-source database software, support, and services
+- Provider of open-source database services, support, and software
 
 #### Known for
 
@@ -399,7 +399,7 @@ We understand that more a more developers need these alternatives and some indep
 - Identify people and audit accessibility
 - Set objectives
 - Define the action scope
-- Identify ownership
+- Establish the ownership
 - Set standards
 - Define tech stack
 - Pick health metrics
@@ -469,7 +469,7 @@ The result: We only had the absolute minimum to keep documentation alive.
 
 #### Kept
 
-- Creation
+- Creation of content
 - Management
 - Data analysis
 
@@ -478,7 +478,7 @@ The result: We only had the absolute minimum to keep documentation alive.
 - Speed
 - Visibility
 - Openness
-- User’s POV
+- The user’s POV
 - Horizontal communication
 - New methodologies
 - New tools
@@ -519,7 +519,7 @@ We added:
 
 ---
 
-### Providing clarity
+### Clarity
 
 Is the content accessible to people?
 Does it provide intuitive access to their needs?
@@ -543,8 +543,8 @@ We wanted to ask...
 
 - Applied readable fonts
 - Added spacing
-- More chromatic contrast
-- More reading contrast (headings Vs running text blocks)
+- Increased chromatic contrast
+- Increased reading contrast (headings Vs. running text blocks)
 - On-brand re-styling
 
 ![bg](../img/docs_design-accessibility.png)
@@ -566,8 +566,8 @@ _class: content-flush-top
 
 #### Added
 
-- Guidelines and resources to place icons, buttons, dividers and tabs
-- Guidelines to flag key bits of content and decision-making points
+- Guidelines and resources to place icons, buttons, dividers, and tabs
+- Guidelines to flag critical bits of content and decision-making points
 
 ![bg](../img/docs_design-cta.png)
 
@@ -587,12 +587,12 @@ We were open to help decide.
 
 #### Extended
 
-- Created and documented new custom components
+- New custom components
   - Tiny Admonitions: when you want to be a little more subtle
   - Framed Content: when you wish to disrupt and announce
-- Use out-of-the-box components 
+- Use of out-of-the-box components 
   - Feedback Module
-  - And more…
+  - And more
 
 ![bg right:60%](../img/docs_design-new_components2.png)
 
@@ -610,7 +610,7 @@ Also digged deep to find components that were not in use but would help immensel
 
 ---
 
-### Helping people
+### User experience
 
 What can we do for them?
 How might we anticipate their needs?
@@ -624,7 +624,7 @@ _class: v-align
 
 #### Invested in
 
-- Understanding people's needs
+- Understanding people’s needs 
 - Experimenting with navigation
 - Guidelines for navigation streamlining
 - Quickstart guide creation
