@@ -320,7 +320,7 @@ We wanted to change that and ask...
 
 ---
 
-We want documentation to reach out to more [**developers interested in open-source databases**]() for their applications so that adoption increases through [**more installations**](), [**proper retention**](), and [**evident ease of use**]().
+We want documentation to reach out to more **developers** interested in open-source databases for their applications so that adoption increases through more **installations**, proper **retention**, and evident **ease of use**.
 
 ![bg](../img/docs-design/docs_design-balloon.svg)
 
