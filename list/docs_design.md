@@ -692,10 +692,10 @@ _class: v-align
 
 #### Gained
 
-- Documentation Home feels similar to the product documentation
-- Navigation patterns are the similar
-- Feels like the same space
-- Feels whole and professional
+- Documentation Home feels similar to other documentation sites
+- Navigation patterns are similar
+- It feels like the same space
+- It’s whole and professional
 
 ![bg right 100%](../img/docs_design-sitemap.png)
 
