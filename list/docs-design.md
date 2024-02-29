@@ -180,7 +180,7 @@ _class: v-align
 
 ---
 
-While we create something better in-product, what else could we do [**now**]()?
+While we create something better in-product, what else could we do **now**?
 
 ![bg](../img/docs-design/docs_design-balloon.svg)
 
