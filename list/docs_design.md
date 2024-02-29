@@ -635,41 +635,39 @@ _class: v-align padding-null-right
 
 ---
 
-#### Changed things
-
-- Documentation Home Page placement
-- Main website → Documentation websites
-- Kept link from Main Website Home Page
-
-#### Gained
-
-- Documentation Home feels similar to other documentation sites
-- Navigation patterns are similar
-- It feels like the same space
-- It’s whole and professional
-
-![bg right 100%](../img/docs_design/docs_design-sitemap.png)
+![bg](../img/docs_design/sitemap.png)
 
 <!--
-_class: v-align padding-null-right content-flush-top
+_class: h-align
 -->
 
 <!--
-Our elephant in the room: Because we left documentation kind of left by chance, its sitemap was disconnected.
+Problems:
+- Documentation left by chance
+- Disconnected experience
+  - Force user to jump
+  - Main site
+  - To docs
+  - Back to main site
+- Maintenance problems
+  - 2 places
+    - Different departments
+  - Wordpress
+  - MkDocs
+- Navigation was unclear
+  - No return
 
-Actually, the homepage for the documentation was in the main website.
-
-It was one of the website pages.
-
-To navigate between 2 products, you had to jump websites. You could notice the huge difference.
-
-We decided to move the actual homepage for the docs to the same area where all other documentation websites were.
-
-We wanted the homepage to feel part of the documentation and not part of the main website. Share the same styling and usability patterns.
-
-This would help make it feel whole.
-
-This would boost the aesthetic-usability effect by making users perceive our documentation as a solid and effective one. This is our hypothesis.
+Solution:
+- Move the home page
+- Make it easy to maintain
+- Cohesive experience
+  - Same navigation
+  - Same styling
+- Feeling of wholeness
+- Boost aesthetic-usability
+  - Perceived professionalism
+  - Perceived functionalism
+  - Things will work
 -->
 
 ---
@@ -691,7 +689,7 @@ This would boost the aesthetic-usability effect by making users perceive our doc
 - Weed out inconsistencies
 - Add practical examples/recipes
 
-![bg](../img/docs_design/docs_design-conclusion.svg)
+![bg](../img/docs_design/overview.svg)
 
 <!--
 _class: v-align content-flush-top
