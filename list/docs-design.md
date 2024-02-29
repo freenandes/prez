@@ -692,7 +692,7 @@ _class: v-align h-align
 
 <style scoped>
   section {
-    padding: 0;
+    padding: var(--s5) !important;
   }
   img[src*="home"],
   video {
@@ -706,7 +706,7 @@ _class: v-align h-align
     width: 24rem;
   }
   video {
-    width: 150%;
+    width: 1120px;
     height: auto;
   }
 </style>
