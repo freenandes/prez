@@ -691,8 +691,11 @@ _class: v-align h-align
 -->
 
 <style scoped>
+  p {
+    max-width: unset !important;
+  }
   section {
-    padding: var(--s5) !important;
+    padding: var(--s5);
   }
   img[src*="home"],
   video {
