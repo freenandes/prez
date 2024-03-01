@@ -684,10 +684,6 @@ Solution:
   - Same navigation
   - Same styling
 - Feeling of whole
-- Boost aesthetic-usability FX
-  - Perceived professionalism
-  - Perceived functionalism
-  - "Things will work"
 -->
 
 ---
@@ -716,6 +712,15 @@ _class: v-align h-align
     height: auto;
   }
 </style>
+
+<!--
+- Now you'd be in 1 place only
+- Docs URL leads to sub docs
+- Boost aesthetic-usability FX
+  - Perceived professionalism
+  - Perceived functionalism
+  - "Things will work"
+-->
 
 ---
 
@@ -750,41 +755,43 @@ _class: v-align content-flush-top
 
 <!--
 Overview:
-- Defined a strategy for the documentation
+- Defined a strategy
   - Generate consensus
-  - Value for the goals
+  - Value of docs for the team goals
 - Established the co-ownership
   - Share responsibility
   - Garner expertise
+  - Stronger collab
 - Made it clear and accessible
   - Readable
   - Visible
   - Tweaked to meet needs
-  - Extended to better serve people
+  - Extended to better serve
 - Improved the user experience
   - Researched
   - Experimented
   - Created guidelines
-  - Highlighted the main journeys
-  - Cross-linked more
+  - Highlighted/fixed main journeys
+  - Cross-linking between journeys
 - Unified documentation websites’ experience
   - Made it feel whole
   - Ease navigation
   - Professional looking
 
 To do:
-- How users are experiencing
-  - Journeys effective?
-  - Do we have more views?
+- How users are experiencing it
+  - Is it effective?
+  - Do we have more adoption?
 - Review outdated content
-  - A lot of bloat
+  - A lot of bloat left
   - Needs thorough review
 - Weed out inconsistencies
-  - All instances closer to each other in structure
+  - Make 17 instances closer to each other
+  - Similar
+  - Intuitive
 - Add practical examples/recipes
-  - In our studies
-  - People benefit from seeing examples
-  - Create them when we have more time
+  - People benefit from examples
+  - Create more solutions through time
 -->
 
 ---
