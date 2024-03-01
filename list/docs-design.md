@@ -577,11 +577,20 @@ How can we make them succeed?
 _class: v-align padding-null-right
 -->
 
+<!--
+We asked... Read
+
+Research:
+- Talked with customers
+- Talked with experts
+- Identified problems w/ nav
+- Garnered the needs
+-->
+
 ---
 
 #### Invested in
 
-- Understanding people’s needs
 - Experimenting
 - Creating guidelines
 - Forming quickstart guides
@@ -594,29 +603,20 @@ _class: v-align padding-null-right
 -->
 
 <!--
-- Research
-  - Talked with
-  - Talked with experts
-  - Garnered the needs
 - Experimentation
   - Navigation
-  - Top navigation added unnecessary confusion
-    - In our case
-    - When overlaid with side navigation
-    - 2 different patterns don't work
-- To improve side navigation
-  - Guidelines
-  - Make navigation slimmer
+  - Top nav added confusion
+  - In conjuntion w/ side nav
+- To improve side nav, created guidelines
+  - Make it slimmer
   - Streamlined
-  - Clear
+  - Clearer
   - Uncluttered
-- Form narratives
+- Formed narratives to navigate users
   - Guides
-  - Quickstart experience
-  - Guide to obvious paths
-  - Lead to value of product through docs
-- To reinforce storytelling
-  - Highlighting steps
+  - Quickstart installation
+  - Highlight obvious paths
+  - Lead to the value
 -->
 
 ---
@@ -630,11 +630,11 @@ _class:
 ![bg 101%](../img/docs-design/storytelling.png)
 
 <!--
-We used all of these visual cues we have created.
-
-We applied them were it made sense.
-
-The objective was to signpost the most likely journey to the user. While always providing alternative routes.
+- We used visual cues
+- Apply where needed
+- Signpost main journeys
+- While providing alternatives
+- Avoid roadblock feeling in users
 -->
 
 ---
