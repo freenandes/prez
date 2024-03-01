@@ -50,7 +50,7 @@ _class: sep
 - Product designer at Percona
 - Generalist contributor in FOSS
 
-![bg right Photo of a typical portuguese village street. Very narrow, with cobblestone and white painted houses.](../img/docs-design/240122105356.png)
+![bg right — Photo of a typical portuguese village street. Very narrow, with cobblestone and white painted houses.](../img/docs-design/240122105356.png)
 
 <!--
 Who's Pedro?
@@ -77,7 +77,7 @@ Who's Pedro?
 - **PMM** database monitoring tools
 - Cloud-native database **Operators**
 
-![bg left 100% 3 photos of the Percona team at gatherings and events.](../img/docs-design/240123084240.png)
+![bg left 100% — 3 photos of the Percona team at gatherings and events.](../img/docs-design/240123084240.png)
 
 <!--
 Where is this happening?
@@ -95,7 +95,7 @@ Where is this happening?
 
 Why would we?
 
-![bg Photo of a hairdresser saloon with two people facing each other with, probably, payment devices in front of them as if they are about to process payments with their customers.](../img/docs-design/cover.svg)
+![bg](../img/docs-design/cover.svg)
 
 <!--
 _class: sep
@@ -115,7 +115,7 @@ Read
 - Optimization of Support
 - Don’t break the bank
 
-![bg right](../img/docs-design/240216094956.png)
+![bg right — Photo of a hairdresser saloon with two people facing each other with, probably, payment devices in front of them as if they are about to process payments with their customers.](../img/docs-design/240216094956.png)
 
 <!--
 Here are some of our motivations:
@@ -150,7 +150,7 @@ Here are some of our motivations:
 - Error 404: Design culture not found
 - Rapid software dev. ≠ Rapid UX dev.
 
-![bg right 68%](../img/docs-design/240123164507.png)
+![bg right 67% — Image of a meme. It's the Austin Powers movie villains laughing and then overlaid the phrase "We'll ask for estimates and then treat them as dealines"](../img/docs-design/240123164507.png)
 
 <!--
 _class: v-align
@@ -209,7 +209,7 @@ Read
 
 Imagine assembling this…
 
-![bg right:50% 200% hue-rotate:180deg contrast:1.2 brightness:1.2](../img/docs-design/billy.png)
+![bg right:50% 200% hue-rotate:180deg contrast:1.2 brightness:1.2 — Photo of an Ikea Billy bookshelf with Oxberg doors.](../img/docs-design/billy.png)
 
 <!--
 _class: boost v-align h-align
