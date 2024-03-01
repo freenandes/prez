@@ -438,12 +438,6 @@ _class: v-align padding-null-right
 
 <!--
 We wanted to ask... Read
-
-In practice, we did:
-- Audited websites
-- UX analysis
-- Identify mistakes
-- Detect opportunities
 -->
 
 ---
@@ -480,14 +474,25 @@ _class: v-align h-align
 </style>
 
 <!--
-- Example of what we had
-- We had 17x websites like this
-- Built in MkDocs + Material theme
-  - Flexible
-  - Practical
-  - Beautiful theme
-  - Open-source
-  - A lot of alternatives exist
+In practice, we did:
+- Audited websites
+- UX analysis
+- Identify mistakes
+- Detect opportunities
+
+We had 17x websites like this
+
+Built in MkDocs + Material theme
+- Flexible
+- Practical
+- Beautiful theme
+- Open-source
+- A lot of alternatives exist
+  - Docusaurus
+  - Vitepress
+  - Starlight
+  - Markdoc
+  - Docsify
 -->
 
 ---
@@ -506,6 +511,10 @@ _class: v-align h-align
 _class: content-flush-top
 -->
 
+<!--
+Read
+-->
+
 ---
 
 #### Added
@@ -520,8 +529,9 @@ _class: content-flush-top
 -->
 
 <!--
+Problem:
 - Not using the full potential
-- Maintainers: not versed on visual arrangement
+- Maintainers: not versed in visual arrangement
 - UX team open to help
 -->
 
