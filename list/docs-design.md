@@ -50,7 +50,7 @@ _class: sep
 - Product designer at Percona
 - Generalist contributor in FOSS
 
-![bg right](../img/docs-design/240122105356.png)
+![bg right Photo of a typical portuguese village street. Very narrow, with cobblestone and white painted houses.](../img/docs-design/240122105356.png)
 
 <!--
 Who's Pedro?
