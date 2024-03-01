@@ -274,7 +274,7 @@ Alt: Cover of the Ikea Billy instructions booklet.
 
 With databases, even if you’re an expert,<br> you must keep the documentation tab open.
 
-![bg — Diagram showing the phases of databases use in software developement: installation, development and upkeeping of the application. Below a screenshot detail of the browser tabs showing the documentation open.](../img/docs-design/db_dev.png)
+![bg](../img/docs-design/db_dev.png)
 
 <!--
 _class: boost h-align
@@ -289,6 +289,8 @@ Development, management and monitoring of databases:
 - Security concerns
 - Performance concerns
 - And more
+
+Alt: Diagram showing the phases of databases use in software developement: installation, development and upkeeping of the application. Below a screenshot detail of the browser tabs showing the documentation open.
 -->
 
 ---
@@ -402,7 +404,7 @@ This is not enough. We asked... Read
 - New methods
 - New tools
 
-![bg right 100% — Diagram of the various departments that were already working on the documentation and the other departments that were invited into it to add expertise.](../img/docs-design/ownership.png)
+![bg right 100%](../img/docs-design/ownership.png)
 
 <!--
 _class: v-align content-flush-top padding-null-right
@@ -432,6 +434,8 @@ Added:
   - Propose solutions
   - Explored new tools
     - Posthog
+
+Alt: Diagram of the various departments that were already working on the documentation and the other departments that were invited into it to add expertise.
 -->
 
 ---
