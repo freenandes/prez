@@ -549,14 +549,17 @@ _class: v-align padding-null-right
 -->
 
 <!--
-MkDocs — great out of the box, but we wanted more:
+MkDocs:
+- Great out of the box
+
+But we wanted more:
 - New components
   - Tiny Admonitions
     - When you want more subtle
   - Framed Content
     - When you wish to disrupt
     - Announce
-- Use of more
+- Shaped out-of-the-box components
   - Feedback module
 -->
 
