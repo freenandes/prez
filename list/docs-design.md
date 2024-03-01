@@ -244,13 +244,8 @@ _class: boost v-align h-align
 -->
 
 <style scoped>
-  [data-marpit-advanced-background-container] {
-    padding: 2.25rem 3.375rem !important;
-    width: calc(50% - (3.375rem * 2)) !important;
-  }
   [data-marpit-advanced-background-container] > figure {
-    width: 100%;
-    height: auto;
+    margin: 2.25rem 3.375rem !important;
     box-shadow: 0 0.1875rem 0.25rem 0 rgba(0,0,0,0.3) !important;
     outline: 1px solid rgba(0,0,0,0.05) !important;
   }
