@@ -247,7 +247,7 @@ Alt: AI generated image of a realistic depiction of a lot of furniture pieces, r
 
 With documentation, we can promote the adoption and good use of products.
 
-![bg right — Cover of the Ikea Billy instructions booklet.](../img/docs-design/billy_manual.png)
+![bg right](../img/docs-design/billy_manual.png)
 
 <!--
 _class: boost v-align h-align
@@ -266,6 +266,8 @@ _class: boost v-align h-align
 - Like IKEA's instructions booklet
 - Errors can still happen
 - But it improves the experience
+
+Alt: Cover of the Ikea Billy instructions booklet.
 -->
 
 ---
