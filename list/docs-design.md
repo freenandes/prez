@@ -61,6 +61,8 @@ Who's Pedro?
 - Designer at Percona
 - Contributor in FOSS for a long while
 - Support, translation, some design
+
+Alt: Photo of a typical portuguese village street. Very narrow, with cobblestone and white painted houses.
 -->
 
 ---
@@ -77,7 +79,7 @@ Who's Pedro?
 - **PMM** database monitoring tools
 - Cloud-native database **Operators**
 
-![bg left 100% — 3 photos of the Percona team at gatherings and events.](../img/docs-design/240123084240.png)
+![bg left 100%](../img/docs-design/240123084240.png)
 
 <!--
 Where is this happening?
@@ -87,6 +89,8 @@ Where is this happening?
   - Later, open-source software
 - To support services, namely...
 - Promote freedom to choose
+
+Alt: 3 photos of the Percona team at gatherings and events.
 -->
 
 ---
@@ -115,7 +119,7 @@ Read
 - Optimization of Support
 - Don’t break the bank
 
-![bg right — Photo of a hairdresser saloon with two people facing each other with, probably, payment devices in front of them as if they are about to process payments with their customers.](../img/docs-design/240216094956.png)
+![bg right](../img/docs-design/240216094956.png)
 
 <!--
 Here are some of our motivations:
@@ -140,6 +144,8 @@ Here are some of our motivations:
   - Regardless of price
   - Grow at their pace
   - Scale when ready
+
+Alt: Photo of a hairdresser saloon with two people facing each other with, probably, payment devices in front of them as if they are about to process payments with their customers.
 -->
 
 ---
@@ -150,7 +156,7 @@ Here are some of our motivations:
 - Error 404: Design culture not found
 - Rapid software dev. ≠ Rapid UX dev.
 
-![bg right 67% — Image of a meme. It's the Austin Powers movie villains laughing and then overlaid the phrase "We'll ask for estimates and then treat them as dealines"](../img/docs-design/240123164507.png)
+![bg right 67%](../img/docs-design/240123164507.png)
 
 <!--
 _class: v-align
@@ -183,6 +189,8 @@ Concurrent rapid development
     - Team
     - Processes
 - More time spent
+
+Alt: Image of a meme. It's the Austin Powers movie villains laughing and then overlaid the phrase "We'll ask for estimates and then treat them as dealines"
 -->
 
 ---
@@ -209,7 +217,7 @@ Read
 
 Imagine assembling this…
 
-![bg right:50% 200% hue-rotate:180deg contrast:1.2 brightness:1.2 — Photo of an Ikea Billy bookshelf with Oxberg doors.](../img/docs-design/billy.png)
+![bg right:50% 200% hue-rotate:180deg contrast:1.2 brightness:1.2](../img/docs-design/billy.png)
 
 <!--
 _class: boost v-align h-align
@@ -223,7 +231,7 @@ Ikea Billy bookshelf with Oxberg doors
 
 By only guessing
 
-![bg right saturate:0.7 hue-rotate:20deg — AI generated image of a realistic depiction of a lot of furniture pieces, ready to be assembled.](../img/docs-design/240223155705.png)
+![bg right saturate:0.7 hue-rotate:20deg](../img/docs-design/240223155705.png)
 
 <!--
 _class: boost v-align h-align
@@ -231,6 +239,8 @@ _class: boost v-align h-align
 
 <!--
 ... Where each part fits!
+
+Alt: AI generated image of a realistic depiction of a lot of furniture pieces, ready to be assembled.
 -->
 
 ---
