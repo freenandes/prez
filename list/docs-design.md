@@ -505,7 +505,7 @@ Built in MkDocs + Material theme
 - Increased reading contrast (headings Vs. running text blocks)
 - On-brand re-styling
 
-![bg 101%](../img/docs-design/access.png)
+![bg 101% — Screenshots of documentation websites showing the before and after the tweaking.](../img/docs-design/access.png)
 
 <!--
 _class: content-flush-top
@@ -522,7 +522,7 @@ Read
 - Guidelines and resources to place icons, buttons, dividers, and tabs
 - Guidelines to flag critical bits of content and decision-making points
 
-![bg 101%](../img/docs-design/call.png)
+![bg 101% — Screenshots of documentation websites showing the before and after adding functionalities.](../img/docs-design/call.png)
 
 <!--
 _class: content-flush-top
@@ -542,7 +542,7 @@ Problem:
 - New custom components
 - Use of more out-of-the-box components
 
-![bg right:60% 101%](../img/docs-design/components.png)
+![bg right:60% 101% — Screenshot showing the documentation website page where we added new components.](../img/docs-design/components.png)
 
 <!--
 _class: v-align padding-null-right
@@ -596,7 +596,7 @@ Research:
 - Forming quickstart guides
 - Visual prominence for what matters the most
 
-![bg right:60% 101%](../img/docs-design/quickstart.png)
+![bg right:60% 101% — Screenshot of the documentation website page where we highlighted the quickstart guides with prominent bullet points.](../img/docs-design/quickstart.png)
 
 <!--
 _class: v-align padding-null-right
