@@ -442,9 +442,9 @@ We wanted to ask... Read
 
 ---
 
-<!-- ![](../img/docs-design/old.png) -->
+![](../img/docs-design/old.png)
 <!-- ![](../img/docs-design/old.gif) -->
-<video width="858" height="483" autoplay controls mute loop src="../img/docs-design/old.mp4"></video>
+<!-- <video width="858" height="483" autoplay controls mute loop src="../img/docs-design/old.mp4"></video> -->
 
 [![Built with Material for MkDocs](https://img.shields.io/badge/Material_for_MkDocs-23252f?style=for-the-badge&logo=MaterialForMkDocs&logoColor=white)](https://squidfunk.github.io/mkdocs-material/)
 
@@ -688,9 +688,9 @@ Solution:
 
 ---
 
-<!-- ![](../img/docs-design/home.png) -->
+![](../img/docs-design/home.png)
 <!-- ![](../img/docs-design/home.gif) -->
-<video width="1120" height="630" autoplay controls mute loop src="../img/docs-design/home-long.mp4"></video>
+<!-- <video width="1120" height="630" autoplay controls mute loop src="../img/docs-design/home-long.mp4"></video> -->
 
 <!--
 _class: v-align h-align
