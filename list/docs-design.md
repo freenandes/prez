@@ -509,6 +509,8 @@ Built in MkDocs + Material theme
   - Starlight
   - Markdoc
   - Docsify
+
+Alt: Video showing the old website. The particularity here is that is text heavy and dense.
 -->
 
 ---
@@ -521,7 +523,7 @@ Built in MkDocs + Material theme
 - Increased reading contrast (headings Vs. running text blocks)
 - On-brand re-styling
 
-![bg 101% — Screenshots of documentation websites showing the before and after the tweaking.](../img/docs-design/access.png)
+![bg 101%](../img/docs-design/access.png)
 
 <!--
 _class: content-flush-top
@@ -529,6 +531,8 @@ _class: content-flush-top
 
 <!--
 Read
+
+Alt: Screenshots of documentation websites showing the before and after the tweaking.
 -->
 
 ---
@@ -538,7 +542,7 @@ Read
 - Guidelines and resources to place icons, buttons, dividers, and tabs
 - Guidelines to flag critical bits of content and decision-making points
 
-![bg 101% — Screenshots of documentation websites showing the before and after adding functionalities.](../img/docs-design/call.png)
+![bg 101%](../img/docs-design/call.png)
 
 <!--
 _class: content-flush-top
@@ -549,6 +553,8 @@ Problem:
 - Not using the full potential
 - Maintainers: not versed in visual arrangement
 - UX team open to help
+
+Alt: Screenshots of documentation websites showing the before and after adding functionalities.
 -->
 
 ---
@@ -558,7 +564,7 @@ Problem:
 - New custom components
 - Use of more out-of-the-box components
 
-![bg right:60% 101% — Screenshot showing the documentation website page where we added new components.](../img/docs-design/components.png)
+![bg right:60% 101%](../img/docs-design/components.png)
 
 <!--
 _class: v-align padding-null-right
@@ -577,6 +583,8 @@ But we wanted more:
     - Announce
 - Shaped out-of-the-box components
   - Feedback module
+
+Alt: Screenshot showing the documentation website page where we added new components.
 -->
 
 ---
@@ -612,7 +620,7 @@ Research:
 - Forming quickstart guides
 - Visual prominence for what matters the most
 
-![bg right:60% 101% — Screenshot of the documentation website page where we highlighted the quickstart guides with prominent bullet points.](../img/docs-design/quickstart.png)
+![bg right:60% 101%](../img/docs-design/quickstart.png)
 
 <!--
 _class: v-align padding-null-right
@@ -633,6 +641,8 @@ _class: v-align padding-null-right
   - Quickstart installation
   - Highlight obvious paths
   - Lead to the value
+
+Alt: Screenshot of the documentation website page where we highlighted the quickstart guides with prominent bullet points.
 -->
 
 ---
@@ -643,7 +653,7 @@ We crafted journeys and woven them together so we could guide people into **disc
 _class: 
 -->
 
-![bg 101% — Screenshot of the documentation website pages where we show the use of icons, buttons and other elements to help guide the user.](../img/docs-design/storytelling.png)
+![bg 101%](../img/docs-design/storytelling.png)
 
 <!--
 - We used visual cues
@@ -651,6 +661,8 @@ _class:
 - Signpost main journeys
 - While providing alternatives
 - Avoid roadblock feeling in users
+
+Alt: Screenshot of the documentation website pages where we show the use of icons, buttons and other elements to help guide the user.
 -->
 
 ---
@@ -673,7 +685,7 @@ Read
 
 ---
 
-![bg — Diagram showing the before and after change we did to unify the experience. The major difference is the creation of a new page called "home", exclusively for the documentation, to help drive users that land anew there.](../img/docs-design/site.png)
+![bg](../img/docs-design/site.png)
 
 <!--
 _class: h-align
@@ -700,6 +712,8 @@ Solution:
   - Same navigation
   - Same styling
 - Feeling of whole
+
+Alt: Diagram showing the before and after change we did to unify the experience. The major difference is the creation of a new page called "home", exclusively for the documentation, to help drive users that land anew there.
 -->
 
 ---
