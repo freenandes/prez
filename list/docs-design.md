@@ -651,6 +651,10 @@ Does it feel whole and credible?
 _class: v-align padding-null-right
 -->
 
+<!--
+Read
+-->
+
 ---
 
 ![bg](../img/docs-design/site.png)
@@ -664,35 +668,33 @@ Problems:
 - Documentation left by chance
 - Disconnected experience
   - Force user to jump
-  - Main site
-  - To docs
-  - Back to main site
-- Maintenance problems
+  - Main site to docs
+  - Docs to main site
+- Hard maintenance
   - 2 places
-    - Different departments
-  - Wordpress
-  - MkDocs
-- Navigation was unclear
-  - No return
+  - 2 departments
+  - 2 tech stacks
+  - 2 UX
 
 Solution:
-- Move the home page
-- Make it easy to maintain
+- Move Docs Home to Docs field
+- Easy maintenance
+- 1 ownership
 - Cohesive experience
   - Same navigation
   - Same styling
-- Feeling of wholeness
-- Boost aesthetic-usability
+- Feeling of whole
+- Boost aesthetic-usability FX
   - Perceived professionalism
   - Perceived functionalism
-  - Things will work
+  - "Things will work"
 -->
 
 ---
 
 <!-- ![](../img/docs-design/home.png) -->
 <!-- ![](../img/docs-design/home.gif) -->
-<video width="1120" height="630" autoplay controls mute loop src="../img/docs-design/home.mp4"></video>
+<video width="1120" height="630" autoplay controls mute loop src="../img/docs-design/home-long.mp4"></video>
 
 <!--
 _class: v-align h-align
