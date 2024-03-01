@@ -390,7 +390,7 @@ This is not enough. We asked... Read
 - New methods
 - New tools
 
-![bg right 100%](../img/docs-design/ownership.png)
+![bg right 100% — Diagram of the various departments that were already working on the documentation and the other departments that were invited into it to add expertise.](../img/docs-design/ownership.png)
 
 <!--
 _class: v-align content-flush-top padding-null-right
