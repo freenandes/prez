@@ -48,6 +48,13 @@ _class: sep
 
 <!--
 Who's Pedro?
+
+- Lisbon, Portugal
+- Experience in various industries
+- Also eCommerce
+- Designer at Percona
+- Contributor in FOSS for a long while
+- Support, translation, some design
 -->
 
 ---
@@ -69,12 +76,11 @@ Who's Pedro?
 <!--
 Where is this happening?
 
-- Born out DB solutions
-  - That wouldn't break the bank
+- Born out DB services and consulting
   - For small, growing and large companies
   - Later, open-source software
-- Freedom to choose
 - To support services, namely...
+- Promote freedom to choose
 -->
 
 ---
@@ -90,9 +96,7 @@ _class: sep
 -->
 
 <!--
-- Why would we want to shape docs?
-- Why improve them?
-- Why would we care about docs 1st and software growth later?
+Read
 -->
 
 ---
@@ -111,26 +115,25 @@ _class: sep
 Here are some of our motivations:
 
 - Databases for everyone
-  - Any technical background
+  - Any technical bg
   - Spark creativity
-  - Help learn databases
+  - Help learn
 - Promote independence
   - Lower the entry barrier
-  - Reduce effort and time
-- More and better contributions
-  - Increase discussion
-  - Multiply solutions
-  - For anyone
-- Optimization of Support
-  - Focus on bigger problem
-  - Societal blockers
+  - Reduce effort + time
+- With this
+  - Better contributions
+    - From anyone to anybody
+  - Optimization of Support
+    - Focus on bigger problem
+    - Societal blockers
+    - Medical industry
+    - Or other sensitive area
 - Don’t break the bank
   - Anyone can get in
   - Regardless of price
   - Grow at their pace
   - Scale when ready
-
-Documentation can help.
 -->
 
 ---
@@ -154,36 +157,46 @@ _class: v-align
 </style>
 
 <!--
-- Technical, complex, costly
-  - Intimidating
-  - Specific terminology
-  - Abstract structures
-  - Lack user centricity
-  - Increase user base = more research costs
-- Error 404, Design culture not found
-  - Percona
-    - Wasn't born user-centric
-    - Focused on technical solutions
-    - Working/not working things
-- Rapid software ≠ Rapid UX
-  - If they're not synchronized
+Databases:
+- Technical
+- Intimidating
+- Specific terminology
+- Abstract structures
+- Lack user centricity
+
+Percona:
+  - Wasn't born user-centric
+  - Lack a design culture
+  - Focused on technical solutions
+  - Working/not working things
+
+Concurrent rapid development
+- Software dev + UX dev
+- Not possible in unprepared teams
   - Needs deep integration
     - Team
     - Processes
-  - More time spent
-- Documentation
-  - Demystify
-  - Reach more people
+- More time spent
 -->
 
 ---
 
-While we create something better in-product, what else could we do **now**?
+While we develop growth strategies in-product, what else could we do **now**?
 
 ![bg](../img/docs-design/balloon.svg)
 
 <!--
 class: sep boost
+-->
+
+<style scoped>
+  section {
+    padding: calc(var(--s13) + var(--s8));
+  }
+</style>
+
+<!--
+Read
 -->
 
 ---
