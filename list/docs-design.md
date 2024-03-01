@@ -95,7 +95,7 @@ Where is this happening?
 
 Why would we?
 
-![bg](../img/docs-design/cover.svg)
+![bg Photo of a hairdresser saloon with two people facing each other with, probably, payment devices in front of them as if they are about to process payments with their customers.](../img/docs-design/cover.svg)
 
 <!--
 _class: sep
