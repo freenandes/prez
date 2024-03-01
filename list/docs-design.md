@@ -313,10 +313,11 @@ _class: v-align padding-null-right
 
 <!--
 Problem:
-- No clear strategy
-- Not an instrument to achieve goals.
+- No strategy in docs
+- Not an instrument to achieve goals
+- Just existed...
 
-We wanted to change that and ask...
+We wanted to change that and ask... Read
 -->
 
 ---
