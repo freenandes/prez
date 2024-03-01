@@ -262,7 +262,7 @@ _class: boost v-align h-align
 
 With databases, even if you’re an expert,<br> you must keep the documentation tab open.
 
-![bg](../img/docs-design/db_dev.png)
+![bg — Diagram showing the phases of databases use in software developement: installation, development and upkeeping of the application. Below a screenshot detail of the browser tabs showing the documentation open.](../img/docs-design/db_dev.png)
 
 <!--
 _class: boost h-align
