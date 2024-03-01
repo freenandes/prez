@@ -627,7 +627,7 @@ We crafted journeys and woven them together so we could guide people into **disc
 _class: 
 -->
 
-![bg 101%](../img/docs-design/storytelling.png)
+![bg 101% — Screenshot of the documentation website pages where we show the use of icons, buttons and other elements to help guide the user.](../img/docs-design/storytelling.png)
 
 <!--
 - We used visual cues
