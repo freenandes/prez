@@ -77,7 +77,7 @@ Who's Pedro?
 - **PMM** database monitoring tools
 - Cloud-native database **Operators**
 
-![bg left 100%](../img/docs-design/240123084240.png)
+![bg left 100% 3 photos of the Percona team at gatherings and events.](../img/docs-design/240123084240.png)
 
 <!--
 Where is this happening?
