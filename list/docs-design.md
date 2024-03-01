@@ -32,6 +32,12 @@ _class: sep
   }
 </style>
 
+<!--
+- Thank you for the opportunity
+- Enjoying this design focused event
+- Hope to be here again next year
+-->
+
 ---
 
 ### Pedro
@@ -210,11 +216,7 @@ _class: boost v-align h-align
 -->
 
 <!--
-Ikea Billy bookshelf with Oxberg doors.
-
-Anyone had a chance of assembling one of these?
-
-I nailed the back, faced the wrong direction. Wood grain, unpainted from the inside. Had to get some more of those micro nails...
+Ikea Billy bookshelf with Oxberg doors
 -->
 
 ---
@@ -228,13 +230,7 @@ _class: boost v-align h-align
 -->
 
 <!--
-...Where each part goes.
-
-- Doors one sided
-- All either left or right
-- Had to unscrew everything
-- Door ugly
-  - Chipped inside
+... Where each part fits!
 -->
 
 ---
@@ -259,7 +255,7 @@ _class: boost v-align h-align
 - Well designed documentation
 - Like IKEA's instructions booklet
 - Errors can still happen
-- Improves the output
+- But it improves the experience
 -->
 
 ---
@@ -273,20 +269,14 @@ _class: boost h-align
 -->
 
 <!--
-Database development -> complexity = high.
-
-1. Installation
-2. Development, management and monitoring
-   1. An entire world
-   2. Connections to make
-   3. Components to upgrade
-   4. Queries to optimize
-   5. Security concerns
-   6. Performance concerns
-   7. And more
-3. Application
-   1. Maintain
-   2. Optimize
+Development, management and monitoring of databases:
+- An entire world
+- Connections to make
+- Components to upgrade
+- Queries to optimize
+- Security concerns
+- Performance concerns
+- And more
 -->
 
 ---
