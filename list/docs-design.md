@@ -337,17 +337,7 @@ _class: v-align boost h-align
 </style>
 
 <!--
-- Focus on developers
-- Not
-  - Database administrators
-  - Reliability engineer
-  - They continue to be our focus
-- But
-  - Developers need alternatives
-  - Independence
-  - Often lack diverse teams
-
-Extra:
+You can go deeper, like with:
 - Identify people and audit accessibility
 - Set objectives
 - Define the action scope
@@ -376,10 +366,10 @@ _class: v-align padding-null-right
 <!--
 Problem:
 - Documentation just existed
-- Bare minimum effort
+- Bare minimum effort to exist in parallel
 - Had to exist cuz we software house
 
-This is not enough. We asked...
+This is not enough. We asked... Read
 -->
 
 ---
