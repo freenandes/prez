@@ -750,6 +750,8 @@ _class: v-align h-align
   - Perceived professionalism
   - Perceived functionalism
   - "Things will work"
+
+Alt: Video showing the new version of the documentation website and how it is more clear that every page belongs to the same website.
 -->
 
 ---
