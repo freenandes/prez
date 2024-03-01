@@ -657,7 +657,7 @@ Read
 
 ---
 
-![bg](../img/docs-design/site.png)
+![bg — Diagram showing the before and after change we did to unify the experience. The major difference is the creation of a new page called "home", exclusively for the documentation, to help drive users that land anew there.](../img/docs-design/site.png)
 
 <!--
 _class: h-align
