@@ -416,6 +416,7 @@ Added:
   - Product POV
 - UX team
   - New ways of doing
+  - Problem-solving techniques
   - Propose solutions
   - Explored new tools
     - Posthog
@@ -436,13 +437,13 @@ _class: v-align padding-null-right
 -->
 
 <!--
-We wanted to ask...
+We wanted to ask... Read
 
-In practice:
+In practice, we did:
 - Audited websites
-- Analysis from UX POV
-- Found mistakes
-- Found opportunities
+- UX analysis
+- Identify mistakes
+- Detect opportunities
 -->
 
 ---
