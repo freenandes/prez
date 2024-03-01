@@ -223,7 +223,7 @@ Ikea Billy bookshelf with Oxberg doors
 
 By only guessing
 
-![bg right saturate:0.7 hue-rotate:20deg](../img/docs-design/240223155705.png)
+![bg right saturate:0.7 hue-rotate:20deg — AI generated image of a realistic depiction of a lot of furniture pieces, ready to be assembled.](../img/docs-design/240223155705.png)
 
 <!--
 _class: boost v-align h-align
@@ -237,7 +237,7 @@ _class: boost v-align h-align
 
 With documentation, we can promote the adoption and good use of products.
 
-![bg right](../img/docs-design/billy_manual.png)
+![bg right — Cover of the Ikea Billy instructions booklet.](../img/docs-design/billy_manual.png)
 
 <!--
 _class: boost v-align h-align
