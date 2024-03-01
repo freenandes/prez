@@ -137,11 +137,9 @@ Documentation can help.
 
 ### Databases = Hard<br> Software = Hard<br> Design = Hard
 
-Technical, complex, costly
-
-Error 404: Design culture not found
-
-Rapid software ≠ Rapid UX
+- Technical, complex, costly
+- Error 404: Design culture not found
+- Rapid software dev. ≠ Rapid UX dev.
 
 ![bg right 68%](../img/docs-design/240123164507.png)
 
