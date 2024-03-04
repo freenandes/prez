@@ -458,9 +458,9 @@ We wanted to ask... Read
 
 ---
 
-<!-- ![](../img/docs-design/old.png) -->
+![](../img/docs-design/old.png)
 <!-- ![](../img/docs-design/old.gif) -->
-<video width="858" height="483" autoplay controls mute loop src="../img/docs-design/old.mp4"></video>
+<!-- <video width="858" height="483" autoplay controls mute loop src="../img/docs-design/old.mp4"></video> -->
 
 [![Built with Material for MkDocs](https://img.shields.io/badge/Material_for_MkDocs-23252f?style=for-the-badge&logo=MaterialForMkDocs&logoColor=white)](https://squidfunk.github.io/mkdocs-material/)
 
@@ -589,6 +589,95 @@ Alt: Screenshot showing the documentation website page where we added new compon
 
 ---
 
+### Unify the experience
+
+Imagine using the documentation.
+How does it look? How might we improve it?
+Does it feel whole and credible?
+
+![bg right:40%](../img/docs-design/snap-05.svg)
+
+<!--
+_class: v-align padding-null-right
+-->
+
+<!--
+Read
+-->
+
+---
+
+![bg](../img/docs-design/site.png)
+
+<!--
+_class: h-align
+-->
+
+<!--
+Problems:
+- Documentation left by chance
+- Disconnected experience
+  - Force user to jump
+  - Main site to docs
+  - Docs to main site
+- Hard maintenance
+  - 2 places
+  - 2 departments
+  - 2 tech stacks
+  - 2 UX
+
+Solution:
+- Move Docs Home to Docs field
+- Easy maintenance
+- 1 ownership
+- Cohesive experience
+  - Same navigation
+  - Same styling
+- Feeling of whole
+
+Alt: Diagram showing the before and after change we did to unify the experience. The major difference is the creation of a new page called "home", exclusively for the documentation, to help drive users that land anew there.
+-->
+
+---
+
+![](../img/docs-design/home.png)
+<!-- ![](../img/docs-design/home.gif) -->
+<!-- <video width="1120" height="630" autoplay controls mute loop src="../img/docs-design/home-long.mp4"></video> -->
+
+<!--
+_class: v-align h-align
+-->
+
+<style scoped>
+  p {
+    max-width: unset !important;
+  }
+  img[src*="home"],
+  video {
+    display: block;
+    box-shadow: 0 0.1875rem 0.25rem 0 rgba(0,0,0,0.1), 0 0.375rem 0.5rem 0 rgba(0,0,0,0.2), 0 0.75rem 1rem 0 rgba(0,0,0,0.3);
+    border-radius: 0.125rem;
+    outline: 1px solid rgba(0,0,0,0.05);
+  }
+  img[src*="home"] {
+    width: 1120px;
+    height: auto;
+  }
+</style>
+
+<!--
+- Now you'd be in 1 place only
+- Docs URL leads to sub docs
+- Boost aesthetic-usability FX
+  - Perceived professionalism
+  - Perceived functionalism
+  - "Things will work"
+
+Alt: Video showing the new version of the documentation website and how it is more clear that every page belongs to the same website.
+-->
+
+---
+
 ### Improve the user experience
 
 What can we do for people?
@@ -663,95 +752,6 @@ _class:
 - Avoid roadblock feeling in users
 
 Alt: Screenshot of the documentation website pages where we show the use of icons, buttons and other elements to help guide the user.
--->
-
----
-
-### Unify the experience
-
-Imagine using the documentation.
-How does it look? How might we improve it?
-Does it feel whole and credible?
-
-![bg right:40%](../img/docs-design/snap-05.svg)
-
-<!--
-_class: v-align padding-null-right
--->
-
-<!--
-Read
--->
-
----
-
-![bg](../img/docs-design/site.png)
-
-<!--
-_class: h-align
--->
-
-<!--
-Problems:
-- Documentation left by chance
-- Disconnected experience
-  - Force user to jump
-  - Main site to docs
-  - Docs to main site
-- Hard maintenance
-  - 2 places
-  - 2 departments
-  - 2 tech stacks
-  - 2 UX
-
-Solution:
-- Move Docs Home to Docs field
-- Easy maintenance
-- 1 ownership
-- Cohesive experience
-  - Same navigation
-  - Same styling
-- Feeling of whole
-
-Alt: Diagram showing the before and after change we did to unify the experience. The major difference is the creation of a new page called "home", exclusively for the documentation, to help drive users that land anew there.
--->
-
----
-
-<!-- ![](../img/docs-design/home.png) -->
-<!-- ![](../img/docs-design/home.gif) -->
-<video width="1120" height="630" autoplay controls mute loop src="../img/docs-design/home-long.mp4"></video>
-
-<!--
-_class: v-align h-align
--->
-
-<style scoped>
-  p {
-    max-width: unset !important;
-  }
-  img[src*="home"],
-  video {
-    display: block;
-    box-shadow: 0 0.1875rem 0.25rem 0 rgba(0,0,0,0.1), 0 0.375rem 0.5rem 0 rgba(0,0,0,0.2), 0 0.75rem 1rem 0 rgba(0,0,0,0.3);
-    border-radius: 0.125rem;
-    outline: 1px solid rgba(0,0,0,0.05);
-  }
-  img[src*="home"] {
-    width: 1120px;
-    height: auto;
-  }
-</style>
-
-<!--
-- Now you'd be in 1 place only
-- Docs URL leads to sub docs
-- Boost aesthetic-usability FX
-  - Perceived professionalism
-  - Perceived functionalism
-  - "Things will work"
-
-Alt: Video showing the new version of the documentation website and how it is more clear that every page belongs to the same website.
 -->
 
 ---
