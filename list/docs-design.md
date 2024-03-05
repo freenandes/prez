@@ -607,7 +607,7 @@ Read
 
 ---
 
-![bg](../img/docs-design/site.png)
+![bg](../img/docs-design/sitem.png)
 
 <!--
 _class: h-align
@@ -642,7 +642,7 @@ Alt: Diagram showing the before and after change we did to unify the experience.
 
 <!-- ![](../img/docs-design/home.png) -->
 <!-- ![](../img/docs-design/home.gif) -->
-<video width="1120" height="630" autoplay controls mute loop src="../img/docs-design/home-long.mp4"></video>
+<video width="1120" height="630" autoplay controls mute loop src="../img/docs-design/home.mp4"></video>
 
 <!--
 _class: v-align h-align
